@@ -24,41 +24,33 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u
 #EXTINF:-1 tvg-id="Alarabiya.ae",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHadath.ae",Al Arabiya Al Hadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1 tvg-id="AlYaumTV.ae",Al Yaum TV
 https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
-# EXTINF:-1 tvg-id="DubaiOne.ae",Dubai One
-# https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-# EXTINF:-1 tvg-id="DubaiTV.ae",Dubai TV
-# https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-# EXTINF:-1 tvg-id="DubaiZaman.ae",Dubai Zaman
-# https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae",MBC 1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="MBC3.ae",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-id="MBC4.ae",MBC 4
-https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-id="MBC5.ae",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="MBCDrama.ae",MBC Drama KSA
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae",MBC Plus Drama
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="MBCIraq.ae",MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="MBCMasr.eg",MBC Masr 1
-https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-id="MBCMasr2.eg",MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae",MBC Plus Drama
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae",National Geographic Abu Dhabi
-https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="PMC.ae",PMC
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae",PMC Royale
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SamaDubai.ae",Sama Dubai
-https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa",Al Jazeera Arabic
@@ -69,39 +61,29 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="SyriaDrama.sy",Syria Drama
-http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="SyrianSatelliteChannel.sy",Syria Satellite AbuDhabiChannel
-http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="SyrianNewsChannel.sy",Syrian News Channel
-http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriaTV.tr",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AlMayadeenTV.lb",Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlManar.lb",Al Manar
-https://manar.live/iptv/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV.lb" MTV Lebanon
-https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
-#EXTINF:-1 tvg-id="NBN.lb",NBN
-https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8
-#EXTINF:-1 tvg-id="OTV.lb",OTV
-http://62.182.82.104/OTV/index.m3u8
+https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-id="RT.ru",Russia Today
-https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="DWArabic.de",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk",BBC Arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="CNN.us",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="",National Geographic 
-http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
+#EXTINF:-1 tvg-id="",National Geographic Wild
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 tvg-id="LanaTV.lb",LTV
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
-#EXTINF:-1 tvg-id="NourElSham.sy",Nour El-Sham
-http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="SamaTV.sy",Sama TV
 https://app.sama-tv.net/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-id="TRTArabi.tr",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTV.tr",Power Turk
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
