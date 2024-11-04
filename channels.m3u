@@ -14,11 +14,11 @@ https://ythls.armelin.one/channel/UCrj5BGAhtWxDfqbza9T9hqA.m3u8
 #EXTINF:-1 tvg-id="",Al Hadath TV (1080p)
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1 tvg-id="",Al Jazeera Arabic (1080p)
-https://ythls.armelin.one/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-id="",Al Jazeera Arabic (1080p)
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="",Al Jazeera Arabic (1080p)
-https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+https://ythls.armelin.one/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8
 #EXTINF:-1 tvg-id="",Al Jazeera Documentary (270p) [Geo-blocked]
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="",Al Jazeera English (1080p)
@@ -31,38 +31,72 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="",Al Manar (576p) [Not 24/7]
 https://edge.fastpublish.me/live/index.m3u8
+#EXTINF:-1 tvg-id="",Al Mashhad (1080p)
+https://ythls.armelin.one/channel/UCWnBTuzUUDpKhJPGuDQMynA.m3u8
+#EXTINF:-1 tvg-id="",Al Mashhad (1080p)
+https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
+#EXTINF:-1 tvg-id="",Al Masirah (720p) [Not 24/7]
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
 #EXTINF:-1 tvg-id="",Al Mayadeen (576p)
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/7.m3u8
-#EXTINF:-1 tvg-id="",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
+#EXTINF:-1 tvg-id="",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/7.m3u8
 #EXTINF:-1 tvg-id="",Al Quran Al Kareem TV (Mecca) (720p) [Not 24/7]
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/6.m3u8
-#EXTINF:-1 tvg-id="",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
+#EXTINF:-1 tvg-id="",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/6.m3u8
 #EXTINF:-1 tvg-id="",Al Sunnah Al Nabawiyah TV (Medina) (720p) [Not 24/7]
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-id="",Al Yaum TV (720p)
 https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
+#EXTINF:-1 tvg-id="",Alaraby 2 TV (1080p)
+https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8
+#EXTINF:-1 tvg-id="",Alaraby 2 TV (1080p)
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="",Alaraby TV (1080p)
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="",Alaraby TV (1080p)
+https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8
+#EXTINF:-1 tvg-id="",Alhiwar TV (1080p) [Not 24/7]
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="",Alhiwar TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC_fNP2ettM5ius4BZ6G7MOg.m3u8
+#EXTINF:-1 tvg-id="",Alhurra (720p)
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 tvg-id="",Almagharibia TV (1080p)
+https://ythls.armelin.one/channel/UCwKS2U-DwjPZZvM6mSXPKgA.m3u8
+#EXTINF:-1 tvg-id="",Asharq News (1080p)
+https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
+#EXTINF:-1 tvg-id="",Asharq News (1080p)
+https://ythls.armelin.one/channel/UCRJUVYt9gjg8MnlGacySUdg.m3u8
+#EXTINF:-1 tvg-id="",Asharq News (1080p)
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="",Asharq News (1080p)
+https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+#EXTINF:-1 tvg-id="",BBC Arabic (720p)
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="",BBC Arabic (720p)
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="",BBC Arabic (720p)
-https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="",BBC Arabic (720p)
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd
 #EXTINF:-1 tvg-id="",BBC Arabic (720p)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="",BBC Arabic (720p)
-https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd
 #EXTINF:-1 tvg-id="",BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="",Bahrain Quran (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-id="",CNBC Arabia (1080p)
+https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 #EXTINF:-1 tvg-id="",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="",France 24 Arabic (1080p)
+https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 #EXTINF:-1 tvg-id="",Iqraa (576p) [Not 24/7]
 https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:-1 tvg-id="",Iqraa (576p) [Not 24/7]
@@ -70,15 +104,15 @@ https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:-1 tvg-id="",LTV (360p)
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1 tvg-id="",MBC 1 (1080p)
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-id="",MBC 1 (1080p)
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-id="",MBC 1 (1080p)
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="",MBC 3 KSA (1080p)
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-id="",MBC 4 (1080p)
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-id="",MBC 4 (1080p)
 https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="",MBC 4 (1080p)
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-id="",MBC 5 (1080p)
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="",MBC Drama KSA (1080p)
@@ -102,9 +136,9 @@ https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m
 #EXTINF:-1 tvg-id="",Quran Radio (720p)
 https://edge.taghtia.com/sa/13.m3u8
 #EXTINF:-1 tvg-id="",RT Arabic (1080p) [Geo-blocked]
-https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-id="",RT Arabic (1080p) [Geo-blocked]
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="",RT Arabic (1080p) [Geo-blocked]
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="",Sama Dubai (1080p)
 https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="",Sama TV (578p) [Not 24/7]
@@ -119,25 +153,3 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="",TRT Arabi (1080p) [Not 24/7]
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="",Alhurra (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-id="",Al Mashhad (1080p)
-https://ythls.armelin.one/channel/UCWnBTuzUUDpKhJPGuDQMynA.m3u8
-#EXTINF:-1 tvg-id="",Al Saudiya (1080p)
-https://ythls.armelin.one/channel/UC2mWeEHv9IY6i74okFMkGPw.m3u8
-#EXTINF:-1 tvg-id="",Alhiwar TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UC_fNP2ettM5ius4BZ6G7MOg.m3u8
-#EXTINF:-1 tvg-id="",Almagharibia TV (1080p)
-https://ythls.armelin.one/channel/UCwKS2U-DwjPZZvM6mSXPKgA.m3u8
-#EXTINF:-1 tvg-id="",Asharq News (1080p)
-https://ythls.armelin.one/channel/UCRJUVYt9gjg8MnlGacySUdg.m3u8
-#EXTINF:-1 tvg-id="",CNBC Arabia (1080p)
-https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
-#EXTINF:-1 tvg-id="",France 24 Arabic (1080p)
-https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
-#EXTINF:-1 tvg-id="",Alaraby TV (1080p)
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="",Alaraby 2 TV (1080p)
-https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8
-#EXTINF:-1 tvg-id="",Al Masirah (720p) [Not 24/7]
-https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
