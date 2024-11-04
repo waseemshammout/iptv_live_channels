@@ -119,3 +119,25 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="",TRT Arabi (1080p) [Not 24/7]
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="",Alhurra (720p)
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 tvg-id="",Al Mashhad (1080p)
+https://ythls.armelin.one/channel/UCWnBTuzUUDpKhJPGuDQMynA.m3u8
+#EXTINF:-1 tvg-id="",Al Saudiya (1080p)
+https://ythls.armelin.one/channel/UC2mWeEHv9IY6i74okFMkGPw.m3u8
+#EXTINF:-1 tvg-id="",Alhiwar TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC_fNP2ettM5ius4BZ6G7MOg.m3u8
+#EXTINF:-1 tvg-id="",Almagharibia TV (1080p)
+https://ythls.armelin.one/channel/UCwKS2U-DwjPZZvM6mSXPKgA.m3u8
+#EXTINF:-1 tvg-id="",Asharq News (1080p)
+https://ythls.armelin.one/channel/UCRJUVYt9gjg8MnlGacySUdg.m3u8
+#EXTINF:-1 tvg-id="",CNBC Arabia (1080p)
+https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
+#EXTINF:-1 tvg-id="",France 24 Arabic (1080p)
+https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
+#EXTINF:-1 tvg-id="",Alaraby TV (1080p)
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="",Alaraby 2 TV (1080p)
+https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8
+#EXTINF:-1 tvg-id="",Al Masirah (720p) [Not 24/7]
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
