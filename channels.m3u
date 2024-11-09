@@ -91,8 +91,6 @@ https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifes
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="",PMC Royale (720p) [Not 24/7]
 https://rohls.pmc.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="",PowerTürk TV (720p)
-https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Quran Radio (720p)
 https://edge.taghtia.com/sa/13.m3u8
 #EXTINF:-1 tvg-id="",RT Arabic (1080p) [Geo-blocked]
