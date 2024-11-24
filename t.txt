@@ -14012,6 +14012,8 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
 #EXTINF:-1 tvg-id="ShopChannel.jp",Shop Channel (1080p) [Not 24/7]
 https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="",TBS (540p)
+https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="TokyoMX1.jp",Tokyo MX1 (720p)
 https://mcas-eqms-mx2-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX1/master.m3u8
 #EXTINF:-1 tvg-id="Weathernews.jp",Weathernews (720p)
@@ -17030,6 +17032,10 @@ https://cdndai.pl/tvp3wroclawsd/index.m3u8
 https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
 #EXTINF:-1 tvg-id="TVTZgorzelec.pl",TVT Zgorzelec (576p) [Not 24/7]
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1 tvg-id="TV4.pl" tvg-shift="3 minutes",TV4 (1080p) [Geo-blocked]
+https://lb2-e2-32.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-shift="3 minutes",Polsat (1080p) [Geo-blocked]
+https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 tvg-id="AlfaTVP.pl",Alfa TVP (1080p)
 https://irylek.ct8.pl/stream/alfatvp
 #EXTINF:-1 tvg-id="BelsatTV.pl",Belsat TV (1080p)
