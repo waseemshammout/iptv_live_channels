@@ -132,6 +132,8 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="ZeeAlwan.in",Zee Alwan (720p) [Geo-blocked]
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae",Al Arabiya Programs (1080p)
+https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
 #EXTINF:-1 tvg-id="AMC.af",AMC (1080p)
 https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ATNInternational.af",ATN International (240p)
@@ -1500,8 +1502,6 @@ https://i.mjh.nz/10bold-nsw.m3u8
 https://i.mjh.nz/10peach-nsw.m3u8
 #EXTINF:-1 tvg-id="ABCMESydney.au",ABC Me (720p)
 https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 tvg-id="ABCNewsSydney.au",ABC News Australia (720p)
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-id="ABCTVSA.au",ABC TV Adelaide (720p)
 https://c.mjh.nz/abc-sa.m3u8
 #EXTINF:-1 tvg-id="ABCTVQLD.au",ABC TV Brisbane (720p)
@@ -2196,6 +2196,16 @@ http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
 https://giatv.bozztv.com/giatvplayout/giatv-208557/index.m3u8
 #EXTINF:-1 tvg-id="ZoyTVTurcas.bo",Zoy TV Turcas
 https://fl1004.bozztv.com/ssh101/zoytvturcas/index.m3u8
+#EXTINF:-1 tvg-id="ZoyTVSports5.bo",Zoy TV Sports 5
+https://fl1004.bozztv.com/ssh101/zoytvsports5/index.m3u8
+#EXTINF:-1 tvg-id="ZoyTVSports4.bo",Zoy TV Sports 4
+https://fl1004.bozztv.com/ssh101/zoytvsports4/index.m3u8
+#EXTINF:-1 tvg-id="ZoyTVSports3.bo",Zoy TV Sports 3
+https://fl1004.bozztv.com/ssh101/zoytvsports3/index.m3u8
+#EXTINF:-1 tvg-id="ZoyTVSports2.bo",Zoy TV Sports 2
+https://fl1004.bozztv.com/ssh101/zoytvsports2/index.m3u8
+#EXTINF:-1 tvg-id="ZoyTVSports1.bo",Zoy TV Sports 1
+https://fl1004.bozztv.com/ssh101/zoytvsports/index.m3u8
 #EXTINF:-1 tvg-id="Bonairetv.bq",Bonaire.tv (1080p) [Not 24/7]
 https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
 #EXTINF:-1 tvg-id="DutchCaribbeanTV.bq",Dutch Caribbean TV (720p) [Not 24/7]
@@ -9479,7 +9489,7 @@ https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
 #EXTINF:-1 tvg-id="TeleGilena.es",TeleGilena (360p) [Not 24/7]
 https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
 #EXTINF:-1 tvg-id="Telemadrid.es",Telemadrid (720p)
-https://telemadrid-23.secure2.footprint.net/master.m3u8
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="TelemadridINT.es",Telemadrid Internacional (720p)
 https://new-international-23.secure2.footprint.net/index.m3u8
 #EXTINF:-1 tvg-id="Telemotril.es",Telemotril (720p) [Not 24/7]
@@ -12042,6 +12052,8 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
 #EXTINF:-1 tvg-id="SPOTV.id",SPOTV (Indonesia)
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV2.id",SPOTV 2 (Indonesia)
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1 tvg-id="Cula4.ie",Cúla4 (1080p)
 https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8
 #EXTINF:-1 tvg-id="OireachtasTV.ie",Oireachtas TV (720p)
@@ -13424,8 +13436,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
 http://stream.tvtap.net:8081/live/it-rai5.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiGulp.it",Rai Gulp (576p)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
-#EXTINF:-1 tvg-id="RaiItaliaAmerica.it",Rai Italia America (360p)
-http://210.210.155.69/s/s63/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it",RAI Italia Asia (576p)
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 tvg-id="RaiMovie.it",Rai Movie (576p) [Geo-blocked]
