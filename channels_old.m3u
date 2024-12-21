@@ -66,7 +66,7 @@ https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 #EXTINF:-1 tvg-id="Hala TV (1080p) [Not 24/7]",Hala TV (1080p) [Not 24/7]
 https://live2.panet.co.il/edge_abr/halaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="I24 News Arabic (720p)",I24 News Arabic (720p)
-https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
+https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 #EXTINF:-1 tvg-id="I24 News English (720p)",I24 News English (720p)
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-id="Iqraa (576p) [Not 24/7]",Iqraa (576p) [Not 24/7]
