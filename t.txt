@@ -22,11 +22,6 @@ https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
 #EXTINF:-1 tvg-id="AlMashhad.ae",Al Mashhad (1080p)
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
-<<<<<<< HEAD
-#EXTINF:-1 tvg-id="AlQamarTV.ae",Al Qamar TV (1080p)
-https://streamer3.premio.link/alqamar/playlist.m3u8
-=======
->>>>>>> 9b9f7aeff432f099d5d4cd87cefb157a0e6b8dda
 #EXTINF:-1 tvg-id="AlShallalTV.ae",Al Shallal TV (1080p)
 https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae",Al Sharqiya Min Kabla (1080p)
