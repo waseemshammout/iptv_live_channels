@@ -15,8 +15,6 @@ https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera Mubasher (1080p)",Al Jazeera Mubasher (1080p)
 https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="Al Maghribia (360p)",Al Maghribia (360p)
-https://cdn-globecast.akamaized.net/live/eds/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="Al Manar (576p) [Not 24/7]",Al Manar (576p) [Not 24/7]
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-id="Al Mashhad (1080p)",Al Mashhad (1080p)
@@ -55,8 +53,6 @@ https://stream.panet.com/edge/halaTV/playlist.m3u8
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-id="I24 News English (720p)",I24 News English (720p)
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 tvg-id="Iqraa (576p) [Not 24/7]",Iqraa (576p) [Not 24/7]
-https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:-1 tvg-id="LTV (360p)",LTV (360p)
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1 tvg-id="MBC 1 (1080p)",MBC 1 (1080p)
