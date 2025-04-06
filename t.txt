@@ -36,8 +36,6 @@ https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlYaumTV.ae",Al Yaum TV (1080p)
 https://iko-live.akamaized.net/AlyuamTV/master.m3u8
-#EXTINF:-1 tvg-id="AlYaumTV.ae",Al Yaum TV (720p)
-https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae",Alarabiya (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/playlist.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae",Alarabiya (1080p)
@@ -14890,6 +14888,8 @@ https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 https://cdn.live.easybroadcast.io/abr_corp/73_tamazight_tccybxt/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="2M.ma",2M (720p)
 https://d3g87jnubafe6a.cloudfront.net/out/v1/1fa0fb3c8dec402994a6f7a7f6492b82/index.m3u8
+#EXTINF:-1 tvg-id="TeleMaroc.ma",Tele Maroc (720p)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/telmar.m3u8
 #EXTINF:-1 tvg-id="MonacoInfo.mc",Monaco Info (720p) [Not 24/7]
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-id="SuperyachtTV.mc",Superyacht TV (1080p)
@@ -17908,46 +17908,6 @@ http://178.219.128.68:64889/ZOOMTVHD
 http://185.236.229.62:9981/play/a02a
 #EXTINF:-1 tvg-id="PolsatNewsPolityka.pl",Polsat News Polityka (1080p) [Geo-blocked]
 https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
-#EXTINF:-1 tvg-id="AlfaTVP.pl",Alfa TVP (1080p)
-https://irylek.ct8.pl/stream/alfatvp
-#EXTINF:-1 tvg-id="BelsatTV.pl",Belsat TV (1080p)
-https://irylek.ct8.pl/stream/belsat
-#EXTINF:-1 tvg-id="TVP1.pl",TVP1 (1080p)
-https://irylek.ct8.pl/stream/tvp1hd
-#EXTINF:-1 tvg-id="TVP2.pl",TVP2 (1080p)
-https://irylek.ct8.pl/stream/tvp2hd
-#EXTINF:-1 tvg-id="TVP3Warszawa.pl",TVP 3 Warszawa (1080p)
-https://irylek.ct8.pl/stream/tvp3warszawahd
-#EXTINF:-1 tvg-id="TVPABC.pl",TVP ABC (1080p)
-https://irylek.ct8.pl/stream/tvpabc
-#EXTINF:-1 tvg-id="TVPABC2.pl",TVP ABC 2 (1080p)
-https://irylek.ct8.pl/stream/tvpabc2
-#EXTINF:-1 tvg-id="TVPDokument.pl",TVP Dokument (1080p)
-https://irylek.ct8.pl/stream/tvpdokument
-#EXTINF:-1 tvg-id="TVPHistoria.pl",TVP Historia (1080p)
-https://irylek.ct8.pl/stream/tvphistoria
-#EXTINF:-1 tvg-id="",TVP Historia 2 (1080p)
-https://irylek.ct8.pl/stream/tvphistoria2
-#EXTINF:-1 tvg-id="TVPInfo.pl",TVP Info (1080p)
-https://irylek.ct8.pl/stream/tvpinfo
-#EXTINF:-1 tvg-id="TVPKobieta.pl",TVP Kobieta (1080p) [Geo-blocked]
-https://irylek.ct8.pl/stream/tvpkobieta
-#EXTINF:-1 tvg-id="TVPKultura.pl",TVP Kultura (1080p)
-https://irylek.ct8.pl/stream/tvpkultura
-#EXTINF:-1 tvg-id="TVPKultura2.pl",TVP Kultura 2 (1080p)
-https://irylek.ct8.pl/stream/tvpkultura2
-#EXTINF:-1 tvg-id="TVPNauka.pl",TVP Nauka (1080p)
-https://irylek.ct8.pl/stream/tvpnauka
-#EXTINF:-1 tvg-id="TVPPolonia.pl",TVP Polonia (1080p)
-https://irylek.ct8.pl/stream/tvppolonia
-#EXTINF:-1 tvg-id="TVPRozrywka.pl",TVP Rozrywka (1080p)
-https://irylek.ct8.pl/stream/tvprozrywka
-#EXTINF:-1 tvg-id="TVPSport.pl",TVP Sport (1080p)
-https://irylek.ct8.pl/stream/tvpsport
-#EXTINF:-1 tvg-id="TVPWilno.pl",TVP Wilno (1080p)
-https://irylek.ct8.pl/stream/tvpwilno
-#EXTINF:-1 tvg-id="TVPWorld.pl",TVP World (1080p)
-https://irylek.ct8.pl/stream/tvpworld
 #EXTINF:-1 tvg-id="ACSNetwork.pr",ACS Network (480p)
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaTeVe.pr",América TeVé (1080p)
@@ -19442,6 +19402,8 @@ https://rotana.hibridcdn.net/rotana/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u
 https://rotana.hibridcdn.net/rotana/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaKSA.sa",Rotana Cinema KSA (1080p)
 https://rotana.hibridcdn.net/rotana/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="Fairuz.sa",Fairuz (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
 #EXTINF:-1 tvg-id="AfricaTV2.tz",Africa TV 2 (720p)
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="AlAlamiya2.sd",Al Alamiya 2
@@ -20988,6 +20950,8 @@ https://stream.yol.tv:9443/medialive/yol.m3u8
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TYTTurk.tr",TYT Turk
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
+#EXTINF:-1 tvg-id="MedMuzik.tr",Med Muzik (1080p)
+http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1 tvg-id="PlusTV.tt",Plus TV
 https://tego-cdn2a.sibercdn.com/Live_TV-PlusTV-13/tracks-v3a1/rewind-7200.m3u8?token=00279a4f4c4f9ced01193e5e2773fdf73f57232e-SjY3NzRTbDZQNnFQVkZaNkZja2RxV3JKc1VBa05zQkdMNStJakRGV0VTTzNrOEVGVUlIQmxta1NLV0o3bzdVdQ-1736094676-1736008276
 #EXTINF:-1 tvg-id="SankhyaTV.tt",Sankhya TV (720p)
