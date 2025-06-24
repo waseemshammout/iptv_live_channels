@@ -39,15 +39,15 @@ def get_url_content(url):
             lines.append(line)
     return lines
 
-# urls = dict_files.values()
+urls = dict_files.values()
 
-# for i, url in enumerate(urls):
-#     content = get_url_content(url)
-#     contents_clean = content[1:]
-#     with open('t.txt', 'a', encoding='utf-8') as txtFile:
-#         txtFile.write('\n'.join(contents_clean) + '\n')
-#         txtFile.close()
-#         print(i + 1, 'is done!')
+for i, url in enumerate(urls):
+    content = get_url_content(url)
+    contents_clean = content[1:]
+    with open('t.txt', 'a', encoding='utf-8') as txtFile:
+        txtFile.write('\n'.join(contents_clean) + '\n')
+        txtFile.close()
+        print(i + 1, 'is done!')
 
 def parse_channels(fileName):
     line_open = False
