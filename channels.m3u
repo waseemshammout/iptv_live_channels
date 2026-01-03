@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Abu Dhabi Emirates (1080p)",Abu Dhabi Emirates (1080p)
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="Al Arabiya (1080p)",Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Arabiya Business (1080p)",Al Arabiya Business (1080p)
@@ -15,8 +13,6 @@ https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-id="Al Mayadeen (576p)",Al Mayadeen (576p)
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Yaum TV (1080p)",Al Yaum TV (1080p)
-https://iko-live.akamaized.net/AlyuamTV/master.m3u8
 #EXTINF:-1 tvg-id="Alaraby 2 TV (1080p)",Alaraby 2 TV (1080p)
 https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8
 #EXTINF:-1 tvg-id="Alaraby TV (1080p)",Alaraby TV (1080p)
@@ -37,12 +33,6 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="France 24 Arabic (1080p)",France 24 Arabic (1080p)
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="Hala TV (1080p) [Not 24/7]",Hala TV (1080p) [Not 24/7]
-https://stream.panet.com/edge/halaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="I24 News Arabic (720p)",I24 News Arabic (720p)
-https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 tvg-id="I24 News English (720p)",I24 News English (720p)
-https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-id="LTV (360p)",LTV (360p)
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1 tvg-id="MBC 1 (1080p)",MBC 1 (1080p)
@@ -59,12 +49,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39c
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-id="National Geographic Wild East",National Geographic Wild East
 https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-id="Now 14 (720p)",Now 14 (720p)
-https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
 #EXTINF:-1 tvg-id="RT Arabic (1080p) [Geo-blocked]",RT Arabic (1080p) [Geo-blocked]
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-id="Sama Dubai (1080p)",Sama Dubai (1080p)
-https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Sky News Arabia (720p) [Not 24/7]",Sky News Arabia (720p) [Not 24/7]
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="Syria TV (1080p)",Syria TV (1080p)
