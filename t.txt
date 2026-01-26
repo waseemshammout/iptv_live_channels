@@ -44,22 +44,6 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/baynounah/baynou
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-id="DubaiOne.ae@SD",Dubai One (1080p)
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing.ae@SD",Dubai Racing (1080p)
-https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing2.ae@SD",Dubai Racing 2 (1080p)
-https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing3.ae@SD",Dubai Racing 3 (1080p)
-https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports1.ae@SD",Dubai Sports 1 (1080p)
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports2.ae@SD",Dubai Sports 2 (720p)
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports3.ae@SD",Dubai Sports 3 (1080p) [Not 24/7]
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiTV.ae@SD",Dubai TV (1080p)
-https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiZaman.ae@SD",Dubai Zaman (1080p) [Not 24/7]
-https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="FujairahTV.ae@SD",Fujairah TV (720p)
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Majid.ae@HD",Majid (1080p)
@@ -100,8 +84,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-id="Pulse95Radio.ae@SD",Pulse95 Radio (1080p)
 https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
-#EXTINF:-1 tvg-id="SamaDubai.ae@SD",Sama Dubai (1080p)
-https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Sharjah2.ae@SD",Sharjah 2 (1080p)
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SharjahRadio.ae@SD",Sharjah Radio (1080p)
@@ -572,6 +554,12 @@ https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_ad
 http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
 #EXTINF:-1 tvg-id="W24.at@SD",W24 (720p) [Not 24/7]
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ORF2Wien.at@SD",ORF 2 Wien (1080p)
+http://79.127.207.193/ORF2/playlist.m3u8
+#EXTINF:-1 tvg-id="ORF1.at@HD",ORF 1 HD
+http://79.127.207.193/ORF1/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.at@HD",ATV HD (1080p)
+http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
 #EXTINF:-1 tvg-id="90210.us@SD",90210
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67dd13af63d0008257f17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c5240-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e62cae5-9404-4e52-8b20-c5fc2b453e9d
 #EXTINF:-1 tvg-id="",AKIBA PASS TV Anime: Sport
@@ -1154,8 +1142,6 @@ https://node19.connect.az:9081/tv/live/playlist.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
 #EXTINF:-1 tvg-id="",MCJ TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mcj-tv-shop.m3u8
-#EXTINF:-1 tvg-id="MedeniyyetTV.az@SD",Medeniyyet TV (406p)
-https://str.yodacdn.net/medeniyyet/index.m3u8
 #EXTINF:-1 tvg-id="",MTV TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8
 #EXTINF:-1 tvg-id="SpaceTV.az@SD",Space TV
@@ -1926,6 +1912,8 @@ https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br@SD",Rede Gospel (1080p)
 https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Gloob.br@SD",Gloob
+http://79.127.243.211:14436/_.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineDrama.us@Brazil",Pluto TV Cine Drama (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVCineFamilia.us@Brazil",Pluto TV Cine Família (720p) [Not 24/7]
@@ -5012,6 +5000,8 @@ https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Zoom.co@SD",Zoom (1080p)
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
+#EXTINF:-1 tvg-id="BendicionChannel.co@HD",Bendicion Channel (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/bendiciontv7/playlist.m3u8
 #EXTINF:-1 tvg-id="88Stereo.cr@SD",88 Stereo (720p) [Not 24/7]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-id="360RFTV.cr@SD",360 RFTV (576p) [Geo-blocked]
@@ -5880,6 +5870,14 @@ https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/
 https://d162h6qqsk8wvl.cloudfront.net/8c880c40-991d-4253-aae9-754f1ed050ce/manifest.m3u8
 #EXTINF:-1 tvg-id="Nachrichten360.de@HD",Nachrichten 360 (1080p) [Geo-blocked]
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
+#EXTINF:-1 tvg-id="AdventureEarth.de@SD",Adventure Earth (720p)
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de@SD",ProSieben Maxx (576p)
+http://79.232.88.203:9981/stream/channelid/1038721938
+#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD",kabel eins Doku (576p)
+http://79.232.88.203:9981/stream/channelid/81078517
+#EXTINF:-1 tvg-id="SAT1Gold.de@SD",SAT.1 Gold (576p)
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="90210.us@SD",90210
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67dd13af63d0008257f17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84abe160-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33a2585b-a5ca-4d3b-a8ca-bea4dff25f97
 #EXTINF:-1 tvg-id="",AKIBA PASS TV Anime: Sport
@@ -7600,6 +7598,14 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
 #EXTINF:-1 tvg-id="Actualidad360.es@SD",Actualidad 360 (1080p) [Geo-blocked]
 https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEStar.es@SD",TVE Star (576p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
+#EXTINF:-1 tvg-id="TVEStar.es@HD",TVE Star HD (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+#EXTINF:-1 tvg-id="ETBEvents1.es@SD",ETB Events 1 (1080p)
+https://cdn1.etbon.eus/oc1/index.m3u8
+#EXTINF:-1 tvg-id="Antena3Internacional.es@SD",Antena 3 Internacional (576p)
+http://38.180.133.31:8000/play/a0ki
 #EXTINF:-1 tvg-id="BBCDrama.uk@Spain",BBC Drama (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="ComediaMadeinSpain.us@SD",Comedia Made in Spain (720p) [Not 24/7]
@@ -8270,6 +8276,26 @@ http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 #EXTINF:-1 tvg-id="FashionTVSecrets.fr@HD",FashionTV Secrets (1080p)
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=%5BCACHEBUSTER%5D&AV_WIDTH=%5BADS.W%5D&AV_HEIGHT=%5BADS.H%5D&AV_APPNAME=%5BADS.APP_NAME%5D&AV_APPSTOREURL=%5BADS.APP_STORE_URL%5D&AV_APPPKGNAME=%5BADS.APP_BUNDLE%5D&AV_IDFA=%5BADS.IFA%5D&AV_IFA_TYPE=%5BADS.IFA_TYPE%5D&AV_CCPA=%5BADS.US_PRIVACY%5D&AV_GDPR=%5BADS.GDPR%5D&AV_CONSENT=%5BADS.GDPR_CONSENT%5D&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=%5BADS.VIDAA_ADS_CONTENTID%5D&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=%5BADS.VAUTH%5D&AV_DNT=%5BADS.DNT%5D&Content_Id=%5BADS.ADS_CONTENTID%5D&AV_LANGUAGE=%5BADS.DEVICE_LANGUAGE%5D&AV_RTB_DEVICE_TYPE=%5BADS.DEVICE_TYPE%5D&AV_OSVERS=%5BADS.DEVICE_OSV%5D&AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENRE=fashion%20and%20lifestyle&AV_CONTENT_CAT=IAB7&AV_CONTENT_RATING=R&AV_CLIENT_SECTION=ftv_secrets&content_channel_name=ftv%20-fashiontv%20Secrets&content_livestream=1&AV_CONTENT_PROVIDER=FTV&ads.vidaa_ads_param=1191723366
+#EXTINF:-1 tvg-id="EuronewsGerman.fr@SD",Euronews German (720p)
+https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsFrench.fr@SD",Euronews French (720p)
+https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD",Euronews Portuguese (720p)
+https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsItalian.fr@SD",Euronews Italian (720p)
+https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneSeriesThriller.fr@HD",Sony One Series Thriller (1080p)
+https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneSeriesComedie.fr@HD",Sony One Series Comedie (1080p)
+https://d1d95b9dbrm3cl.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneHitsComedie.fr@HD",Sony One Hits Comedie (1080p)
+https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneHitsAction.fr@HD",Sony One Hits Action (1080p)
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneFavoris.fr@HD",Sony One Favoris (1080p)
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneBlacklist.fr@HD",Sony One Blacklist (1080p)
+https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="",BFM 2 (1080p)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="BFMAlsace.fr@SD",BFM Alsace (1080p)
@@ -8562,8 +8588,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="",Banijay Mr Bean Animé
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-id="",Banijay Mr Bean Classic
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="",BBC Top Gear France (1080p)
 https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Beyblade
@@ -9056,6 +9080,22 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
 http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
 #EXTINF:-1 tvg-id="RIKSat.cy@SD",ΡΙΚ Sat (720p) [Not 24/7]
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="CosmoteSport9.gr@HD",Cosmote Sport 9
+http://138.2.160.168:8080/fetch?COSMOTESPORT9
+#EXTINF:-1 tvg-id="CosmoteSport8.gr@HD",Cosmote Sport 8
+http://138.2.160.168:8080/fetch?COSMOTESPORT8
+#EXTINF:-1 tvg-id="CosmoteSport7.gr@HD",Cosmote Sport 7
+http://138.2.160.168:8080/fetch?COSMOTESPORT7
+#EXTINF:-1 tvg-id="CosmoteSport6.gr@HD",Cosmote Sport 6
+http://138.2.160.168:8080/fetch?COSMOTESPORT6
+#EXTINF:-1 tvg-id="CosmoteSport5.gr@HD",Cosmote Sport 5
+http://138.2.160.168:8080/fetch?COSMOTESPORT5
+#EXTINF:-1 tvg-id="CosmoteSport4.gr@HD",Cosmote Sport 4
+http://138.2.160.168:8080/fetch?COSMOTESPORT4
+#EXTINF:-1 tvg-id="CosmoteSport3.gr@HD",Cosmote Sport 3
+http://138.2.160.168:8080/fetch?COSMOTESPORT3
+#EXTINF:-1 tvg-id="CosmoteSport2.gr@HD",Cosmote Sport 2
+http://138.2.160.168:8080/fetch?COSMOTESPORT2
 #EXTINF:-1 tvg-id="APlusGuate.gt@SD",A+ Guate (720p)
 https://ch2-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AmigosTVChiquimula.gt@SD",Amigos TV Chiquimula (480p)
@@ -9296,8 +9336,6 @@ https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 tvg-id="ENTV.hn@SD",EN TV (720p)
 https://cp.cast-live.net:1936/exodotv/exodotv/playlist.m3u8
-#EXTINF:-1 tvg-id="GirasolTV.hn@SD",Girasol TV (720p)
-https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
 #EXTINF:-1 tvg-id="GloboTV.hn@SD",Globo TV (1080p) [Not 24/7]
 https://panel.dattalive.com/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="GoTV.hn@SD",Go TV
@@ -9410,6 +9448,8 @@ https://mediacp.us:8081/vallevision/index.m3u8
 https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="WaldivisionInternacional.hn@SD",Waldivisión Internacional (480p)
 https://cloud5.streaminglivehd.com:3114/live/tnnhonduraslive.m3u8
+#EXTINF:-1 tvg-id="GirasolTV.hn@SD",Girasol TV (1080p)
+https://59d39900ebfb8.streamlock.net:443/girasoltv/girasoltv/playlist.m3u8
 #EXTINF:-1 tvg-id="BravoKidsTV.hr@SD",Bravo! Kids TV (1080p)
 https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8
 #EXTINF:-1 tvg-id="BravoTV.hr@SD",Bravo! TV (1080p)
@@ -9798,6 +9838,20 @@ https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ZugloTV.hu@SD",Zuglo TV (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLHarom.hu@SD",RTL Harom (1080p)
+http://46.149.191.217:9005/play/a01t
+#EXTINF:-1 tvg-id="RTLKetto.hu@SD",RTL Ketto (1080p)
+http://46.149.191.217:9005/play/a01r
+#EXTINF:-1 tvg-id="RTL.hu@SD",RTL (1080p)
+http://46.149.191.217:9005/play/a018
+#EXTINF:-1 tvg-id="TV2.hu@SD",TV2 (1080p)
+http://46.149.191.217:9005/play/a01q
+#EXTINF:-1 tvg-id="M5.hu@SD",M5 (1080p)
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="M2.hu@SD",M2 (1080p)
+http://88.212.15.19/live/m2_hun/index.m3u8
+#EXTINF:-1 tvg-id="M4Sport.hu@SD",M4 Sport
+http://88.212.15.19/live/m4_hun/index.m3u8
 #EXTINF:-1 tvg-id="AKTV.id@SD",AKTV (720p) [Not 24/7]
 https://e.siar.us/live/aktv.m3u8
 #EXTINF:-1 tvg-id="AlImanTV.id@SD",Al-Iman TV (720p)
@@ -9872,8 +9926,6 @@ http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id@SD",Garuda TV (1080p)
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#EXTINF:-1 tvg-id="GTV.id@SD",GTV (576p)
-http://203.77.246.58:4500/udp/239.1.3.68:5000
 #EXTINF:-1 tvg-id="HumaBetangTV.id@SD",Huma Betang TV (720p) [Not 24/7]
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IAmChannel.id@SD",I Am Channel (576p)
@@ -9884,10 +9936,6 @@ https://play.accolamedia.id/accola/iberkah.stream/playlist.m3u8
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-id="IDXChannel.id@SD",IDX Channel (720p) [Geo-blocked]
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
-#EXTINF:-1 tvg-id="IndonesianaTV.id@SD",Indonesiana.TV (720p)
-https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
-#EXTINF:-1 tvg-id="Indosiar.id@SD",Indosiar (1080p)
-http://203.77.246.58:4500/udp/239.1.1.110:5000
 #EXTINF:-1 tvg-id="iNews.id@SD",iNews
 https://allcutv.rctiplus.id/inews2023.m3u8
 #EXTINF:-1 tvg-id="InspiraTV.id@SD",Inspira TV (720p) [Not 24/7]
@@ -9990,8 +10038,6 @@ https://streaming.yufid.com/hls/radiokitatv.m3u8
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="RakyatBengkuluTV.id@SD",Rakyat Bengkulu TV (720p)
 https://flv.intechmedia.net/live/ch59.m3u8
-#EXTINF:-1 tvg-id="RCTI.id@SD",RCTI (720p)
-http://203.77.246.58:4500/udp/239.1.3.80:5000
 #EXTINF:-1 tvg-id="RCTI.id@SD",RCTI (1080p)
 https://allcutv.rctiplus.id/rcti2023.m3u8
 #EXTINF:-1 tvg-id="RCTV.id@SD",RCTV (576p) [Not 24/7]
@@ -10020,8 +10066,6 @@ http://203.77.246.58:4500/udp/239.1.1.108:5000
 http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 tvg-id="Simpang5TV.id@SD",Simpang5 TV (360p) [Not 24/7]
 http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="SinPoTV.id@HD",Sin Po TV (1080p)
-http://175.158.57.130:8888/stream/channelid/1138678610
 #EXTINF:-1 tvg-id="SMTV.id@SD",SMTV (720p) [Not 24/7]
 http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SriwijayaTV.id@SD",Sriwijaya TV (576p) [Not 24/7]
@@ -10146,8 +10190,6 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
 #EXTINF:-1 tvg-id="UGTV.id@SD",UGTV (720p)
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-#EXTINF:-1 tvg-id="VTV.id@SD",VTV (1080p)
-http://175.158.57.130:8888/stream/channelid/1627810438
 #EXTINF:-1 tvg-id="VTV.id@SD",VTV (720p)
 https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-id="WesalTV.id@SD",Wesal TV (720p) [Not 24/7]
@@ -10162,6 +10204,14 @@ https://allcutv.rctiplus.id/gtv2023.m3u8
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 #EXTINF:-1 tvg-id="BeritaSatuEnglish.id@SD",BeritaSatu English
 https://stream.broadpeak.io/2e5c2cb8d13e8fbadca22a46d7ffe606/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-id="IndonesianaTV.id@SD",Indonesiana.TV (720p)
+https://tvstreamcast.com/indonesiana.m3u8
+#EXTINF:-1 tvg-id="CahayaTVBanten.id@SD",Cahaya TV Banten
+http://175.158.57.130:8888/stream/channelid/1716535390
+#EXTINF:-1 tvg-id="VTV.id@SD",VTV
+http://175.158.57.130:8888/stream/channelid/191534731
+#EXTINF:-1 tvg-id="MetroTV.id@SD",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Cula4.ie@SD",Cúla4 (1080p)
 https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8
 #EXTINF:-1 tvg-id="OireachtasTV.ie@SD",Oireachtas TV (720p)
@@ -10180,6 +10230,8 @@ https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8
 https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8
 #EXTINF:-1 tvg-id="TG4.ie@SD",TG4 (1080p)
 https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
+#EXTINF:-1 tvg-id="F1Channel.ie@US",F1 Channel (1080p) [Geo-blocked]
+https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GoUSATV.us@SD",Go USA TV (720p)
 https://brandusa-gousa-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel9.il@SD",Channel 9 (540p) [Not 24/7]
@@ -10210,8 +10262,6 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/master.m3u8
 #EXTINF:-1 tvg-id="KanEducational.il@SD",Kan Kids (720p)
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
-#EXTINF:-1 tvg-id="Keshet12.il@SD",Keshet 12 (1080i) [Not 24/7]
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1757445516~acl=/*~data=hdntl~hmac=a8baf01127ae46cd6fd241cf61db8590d7eacc3406f4735ed2defef329496b8a/profileManifest.m3u8?_did=6cfbfc673e5d5f7f274bf96b6c72f28ce1a53f82&_uid=0195a46a-9f11-4704-a944-301512682f7d&rK=bn
 #EXTINF:-1 tvg-id="KnessetChannel.il@SD",Knesset Channel (480p) [Not 24/7]
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Makan33.il@SD",Makan 33 (1080p)
@@ -10252,8 +10302,6 @@ https://9xjio.wiseplayout.com/9XM/master.m3u8
 https://cdn-1.pishow.tv/live/391/master.m3u8
 #EXTINF:-1 tvg-id="99TV.in@SD",99TV (720p)
 https://cdn-1.pishow.tv/live/1211/master.m3u8
-#EXTINF:-1 tvg-id="Andflix.in@SD",&flix (480p)
-https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
 #EXTINF:-1 tvg-id="AndxplorHD.in@SD",&xplor HD (1080p)
 http://66.102.120.18:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak (1080p)
@@ -10416,8 +10464,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://103.182.170.32:8888/play/a01o
 #EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD",Colors Cineplex Superhits (576p)
 http://163.61.227.29:8000/play/a04c/index.m3u8
-#EXTINF:-1 tvg-id="ColorsInfinity.in@HD",Colors Infinity (1080p)
-http://66.102.120.18:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="CTVNAKDPlus.in@SD",CTVN AKD Plus (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ctvn-akd-plus/index.m3u8
 #EXTINF:-1 tvg-id="CVREnglish.in@SD",CVR English (720p)
@@ -10766,10 +10812,6 @@ https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-id="NDTVMarathi.in@SD",NDTV Marathi (1080p)
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
-#EXTINF:-1 tvg-id="NDTVProfit.in@SD",NDTV Profit (480p) [Not 24/7]
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
-#EXTINF:-1 tvg-id="NDTVProfit.in@SD",NDTV Profit (480p)
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
 #EXTINF:-1 tvg-id="News7Tamil.in@SD",News 7 Tamil (576p)
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 #EXTINF:-1 tvg-id="News9Live.in@SD",News9Live (720p)
@@ -10978,10 +11020,6 @@ https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1 tvg-id="SirippoliTV.in@SD",Sirippoli TV (480p)
 https://edge2-moblive.yuppcdn.net/drm1/smil:sirippolitvdrm.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="SonyKALHindi.us@SD",Sony Kal (1080p)
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen2.in@SD",Sony Sports Ten 2 (1080p)
-http://66.102.120.18:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="",Star Family (576p) [Not 24/7]
 http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
 #EXTINF:-1 tvg-id="Starnet.in@SD",Starnet (480p)
@@ -11158,7 +11196,7 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/61
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeBollymovies.in@Australia",Zee Bollymovies Australia (1080p) [Geo-blocked]
 https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeBusiness.in@SD",Zee Business (720p)
+#EXTINF:-1 tvg-id="ZeeBusiness.in@SD",Zee Business (576p)
 https://dwby15d04agvq.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="ZeeBusiness.in@SD",Zee Business (480p)
 https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8
@@ -11450,36 +11488,12 @@ http://103.140.254.2:3500/live/894.m3u8
 http://103.140.254.2:3500/live/895.m3u8
 #EXTINF:-1 tvg-id="Zing.in@SD",Zing! (576p)
 http://103.167.255.18:8085/play/a0mx/index.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in@SD",Zee TV (576p)
-http://103.167.255.18:8085/play/a0k9/index.m3u8
 #EXTINF:-1 tvg-id="ZeePunjabi.in@SD",Zee Punjabi (576p)
 http://103.167.255.18:8085/play/a0ms/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBollywood.in@SD",Zee Bollywood (576p)
-http://103.167.255.18:8085/play/a0ne/index.m3u8
 #EXTINF:-1 tvg-id="UdayaMusic.in@SD",Udaya Music (576p)
 http://103.167.255.18:8085/play/a0on/index.m3u8
 #EXTINF:-1 tvg-id="SuperHungama.in@SD",Super Hungama (576p)
 http://103.167.255.18:8085/play/a0lk/index.m3u8
-#EXTINF:-1 tvg-id="StarSports3.in@SD",Star Sports 3 (576p)
-http://103.167.255.18:8085/play/a0jm/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2Hindi.in@SD",Star Sports 2 Hindi (576p)
-http://103.167.255.18:8085/play/a0kl/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in@SD",Star Sports 2 (576p)
-http://103.167.255.18:8085/play/a0jt/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in@SD",Star Sports 1 (576p)
-http://103.167.255.18:8085/play/a0ki/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldThrills.in@SD",Star Gold Thrills (576p)
-http://103.167.255.18:8085/play/a0nd/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldRomance.in@SD",Star Gold Romance (576p)
-http://103.167.255.18:8085/play/a0nm/index.m3u8
-#EXTINF:-1 tvg-id="Sonic.in@SD",Sonic (576p)
-http://103.167.255.18:8085/play/a0nf/index.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@SD",StarPlus (576p)
-http://103.167.255.18:8085/play/a0k5/index.m3u8
-#EXTINF:-1 tvg-id="StarMaa.in@HD",Star Maa HD (1080p)
-http://103.167.255.18:8085/play/a0nj/index.m3u8
-#EXTINF:-1 tvg-id="StarGold.in@HD",Star Gold HD (1080p)
-http://103.167.255.18:8085/play/a0kv/index.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@SD",Sony SAB (576p)
 http://103.167.255.18:8085/play/a0k8/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD",Sony Max HD (1080p)
@@ -11488,64 +11502,24 @@ http://103.167.255.18:8085/play/a0kp/index.m3u8
 http://103.167.255.18:8085/play/a0kx/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.in@HD",National Geographic Wild HD (1080p)
 http://103.167.255.18:8085/play/a0lt/index.m3u8
-#EXTINF:-1 tvg-id="MoviesNow.in@HD",Movies Now HD (1080p)
-http://103.167.255.18:8085/play/a0lr/index.m3u8
-#EXTINF:-1 tvg-id="MNX.in@SD",MNX (576p)
-http://103.167.255.18:8085/play/a0oj/index.m3u8
 #EXTINF:-1 tvg-id="GeminiMovies.in@HD",Gemini Movies (1080p)
 http://103.167.255.18:8085/play/a0n5/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.in@SD",Disney Junior (576p)
-http://103.167.255.18:8085/play/a0k7/index.m3u8
-#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD",Disney International HD (1080p)
-http://103.167.255.18:8085/play/a0ld/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.in@SD",Disney Channel (576p)
-http://103.167.255.18:8085/play/a0kq/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplex.in@SD",Colors Cineplex (576p)
-http://103.167.255.18:8085/play/a0km/index.m3u8
 #EXTINF:-1 tvg-id="B4UHitz.in@SD",B4U Hitz (576p)
 http://103.167.255.18:8085/play/a0he/index.m3u8
-#EXTINF:-1 tvg-id="AndTV.in@HD",&TV HD (1080p)
-http://103.167.255.18:8085/play/a0mc/index.m3u8
-#EXTINF:-1 tvg-id="AndpriveHD.in@SD",&prive HD (1080p)
-http://103.167.255.18:8085/play/a0m4/index.m3u8
 #EXTINF:-1 tvg-id="Mh1News.in@SD",Mh 1 News (360p)
 https://livestream.jswk.online/mhonenews/live/index.m3u8
 #EXTINF:-1 tvg-id="ZeeClassic.in@SD",Zee Classic (576p)
 http://103.178.78.151:7505/play/a16r/index.m3u8
-#EXTINF:-1 tvg-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
-http://103.178.78.151:7505/play/a0wb/index.m3u8
 #EXTINF:-1 tvg-id="TataSkyBollywoodPremiere.in@SD",Tata Sky Bollywood Premiere (1080p)
 http://103.178.78.151:7505/play/a1vu/index.m3u8
-#EXTINF:-1 tvg-id="StarSportsSelect2.in@HD",Star Sports Select 2 HD (1080p)
-http://103.178.78.151:7505/play/a0w9/index.m3u8
-#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD",Star Sports Select 1 HD (1080p)
-http://103.178.78.151:7505/play/a0w8/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2Hindi.in@HD",Star Sports 2 Hindi HD (1080p)
-http://103.178.78.151:7505/play/a1lw/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD",Star Sports 1 Hindi HD (1080p)
-http://103.178.78.151:7505/play/a1bw/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1Hindi.in@SD",Star Sports 1 Hindi (576p)
-http://103.178.78.151:7505/play/a1n9/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in@HD",Star Sports 1 HD (1080p)
-http://103.178.78.151:7505/play/a0ui/index.m3u8
-#EXTINF:-1 tvg-id="StarGold2.in@SD",Star Gold 2 (576p)
-http://103.178.78.151:7505/play/a0un/index.m3u8
-#EXTINF:-1 tvg-id="StarBharat.in@HD",Star Bharat HD (1080p)
-http://103.178.78.151:7505/play/a1qb/index.m3u8
-#EXTINF:-1 tvg-id="SonyWah.in@SD",Sony Wah (576p)
-http://103.178.78.151:7505/play/a1u5/index.m3u8
 #EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in@SD",CNBC TV18 Prime HD (1080p)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@HD",StarPlus HD (1080p)
-http://103.178.78.151:7505/play/a0uh/index.m3u8
 #EXTINF:-1 tvg-id="SonyYay.in@SD",Sony Yay! (576p)
 http://103.178.78.151:7505/play/a0ux/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD",Sony Sports Ten 3 Hindi (576p)
 http://103.178.78.151:7505/play/a1pv/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen1.in@SD",Sony Sports Ten 1 (576p)
 http://103.178.78.151:7505/play/a1qd/index.m3u8
-#EXTINF:-1 tvg-id="SonyPal.in@SD",Sony Pal (576p)
-http://103.178.78.151:7505/play/a1tu/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax2.in@SD",Sony Max 2 (576p)
 http://103.178.78.151:7505/play/a0uo/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@SD",Sony Max (576p)
@@ -11556,48 +11530,14 @@ http://103.178.78.151:7505/play/a1sa/index.m3u8
 http://103.178.78.151:7505/play/a12t/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD",Nickelodeon (576p)
 http://103.178.78.151:7505/play/a0v1/index.m3u8
-#EXTINF:-1 tvg-id="Colors.in@SD",Colors (576p)
-http://103.178.78.151:7505/play/a1sd/index.m3u8
 #EXTINF:-1 tvg-id="Dangal2.in@SD",Dangal 2 (720p)
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="AllTimeMovies.in@SD",All Time Movies (576p)
-http://103.178.78.151:7505/play/a0pb/index.m3u8
 #EXTINF:-1 tvg-id="AnandTV.in@SD",Anand TV (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/anand-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeZest.in@HD",Zee Zest HD (1080p)
-http://103.167.255.18:8085/play/a0lm/index.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in@HD",Zee TV HD (1080p)
-http://103.167.255.18:8085/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-id="ZeeKannada.in@HD",Zee Kannada HD (1080p)
 http://103.167.255.18:8085/play/a0n4/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinemalu.in@HD",Zee Cinemalu HD (1080p)
 http://103.167.255.18:8085/play/a0ns/index.m3u8
-#EXTINF:-1 tvg-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
-http://103.167.255.18:8085/play/a0l1/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2Hindi.in@HD",Star Sports 2 Hindi HD (1080p)
-http://103.167.255.18:8085/play/a0l3/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in@HD",Star Sports 2 HD (1080p)
-http://103.167.255.18:8085/play/a0jj/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD",Star Sports 1 Hindi HD (1080p)
-http://103.167.255.18:8085/play/a0ko/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
-http://103.167.255.18:8085/play/a0m9/index.m3u8
-#EXTINF:-1 tvg-id="StarGold2.in@HD",Star Gold 2 HD (1080p)
-http://103.167.255.18:8085/play/a0le/index.m3u8
-#EXTINF:-1 tvg-id="StarBharat.in@HD",Star Bharat HD (1080p)
-http://103.167.255.18:8085/play/a0n9/index.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@HD",StarPlus HD (1080p)
-http://103.167.255.18:8085/play/a0ke/index.m3u8
-#EXTINF:-1 tvg-id="Colors.in@HD",Colors HD (1080p)
-http://103.167.255.18:8085/play/a0kf/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplex.in@HD",Colors Cineplex HD (1080p)
-http://103.167.255.18:8085/play/a0kr/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
-http://103.178.78.151:7505/play/a0vv/index.m3u8
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD",Star Movies Select HD (1080p)
-http://103.178.78.151:7505/play/a1gd/index.m3u8
-#EXTINF:-1 tvg-id="StarMovies.in@HD",Star Movies HD (1080p)
-http://103.178.78.151:7505/play/a1ge/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen5.in@SD",Sony Sports Ten 5 (1080p)
 http://103.178.78.151:7505/play/a1qa/index.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@HD",Sony SAB HD (1080p)
@@ -11608,8 +11548,6 @@ http://103.178.78.151:7505/play/a0vu/index.m3u8
 http://103.178.78.151:7505/play/a0uc/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.in@HD",National Geographic HD (1080p)
 http://103.178.78.151:7505/play/a12o/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplex.in@HD",Colors Cineplex HD (1080p)
-http://103.178.78.151:7505/play/a1c0/index.m3u8
 #EXTINF:-1 tvg-id="AasthaGujarati.in@SD",Aastha Gujarati (480p)
 https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Zee24Kalak.in@SD",Zee 24 Kalak (720p)
@@ -11682,6 +11620,116 @@ https://stream.ashokadigital.net/badakhabar/badakhabar/index.m3u8
 https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
 #EXTINF:-1 tvg-id="SathiyamTV.in@SD",Sathiyam TV (720p)
 https://live-cf-sathiyamtv.dailyhunt.in/master.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in@HD",Colors Bangla HD (720p)
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+#EXTINF:-1 tvg-id="BflixMovies.in@SD",Bflix Movies (576p)
+https://mumt03.tangotv.in/BFLIX/index.m3u8
+#EXTINF:-1 tvg-id="PasandTV.in@SD",Pasand TV (576p)
+https://mumt01.tangotv.in/PASANDTV/index.m3u8
+#EXTINF:-1 tvg-id="RaftaarMedia.in@SD",Raftaar Media (240p)
+https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SVBC2.in@SD",SVBC 2 (1080p)
+https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ThanthiOne.in@SD",Thanthi One (576p)
+https://mumt02.tangotv.in/THANTHIONE/index.m3u8
+#EXTINF:-1 tvg-id="AaseervathamTV.in@SD",Aaseervatham TV (576p)
+https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8
+#EXTINF:-1 tvg-id="BrioTV.in@SD",Brio TV (576p)
+https://mumt02.tangotv.in/BRIOTV/index.m3u8
+#EXTINF:-1 tvg-id="NDTVProfit.in@HD",NDTV Profit (1080p)
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
+#EXTINF:-1 tvg-id="NDTVProfit.in@SD",NDTV Profit (1080p)
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
+#EXTINF:-1 tvg-id="ZeeBusiness.in@SD",Zee Business (720p)
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.in@SD",Disney Junior (576p)
+http://116.90.120.152:8000/play/a0gu/index.m3u8
+#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD",Disney International HD (1080p)
+http://116.90.120.152:8000/play/a0hp/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.in@SD",Disney Channel (576p)
+http://116.90.120.152:8000/play/a0jg/index.m3u8
+#EXTINF:-1 tvg-id="Colors.in@HD",Colors HD (1080p)
+http://116.90.120.152:8000/play/a0gt/index.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplex.in@HD",Colors Cineplex HD (1080p)
+http://116.90.120.152:8000/play/a0ji/index.m3u8
+#EXTINF:-1 tvg-id="AnmolCinema.in@SD",Anmol Cinema (576p)
+http://116.90.120.152:8000/play/a0j6/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTalkies.in@HD",Zee Talkies HD (1080p)
+http://103.52.34.182:8001/play/a04r/index.m3u8
+#EXTINF:-1 tvg-id="AmarUjala.in@SD",AmarUjala (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/amar-ujala/index.m3u8
+#EXTINF:-1 tvg-id="PolimerNews.in@SD",Polimer News (720p)
+https://live-cf-polimernews.dailyhunt.in/master.m3u8
+#EXTINF:-1 tvg-id="BVG.in@SD",BVG (576p)
+https://mumt05.tangotv.in/BVG/index.m3u8
+#EXTINF:-1 tvg-id="MoviesNow.in@HD",Movies Now HD (1080p)
+http://116.90.120.152:8000/play/a0ib/index.m3u8
+#EXTINF:-1 tvg-id="MNX.in@HD",MNX HD (1080p)
+http://116.90.120.152:8000/play/a0i6/index.m3u8
+#EXTINF:-1 tvg-id="MoviesNowPlus.in@SD",Movies Now + (1080p)
+http://116.90.120.152:8000/play/a0i4/index.m3u8
+#EXTINF:-1 tvg-id="SonyPal.in@SD",Sony Pal (576p)
+http://116.90.120.152:8000/play/a0hz/index.m3u8
+#EXTINF:-1 tvg-id="SonyWah.in@SD",Sony Wah (576p)
+http://116.90.120.152:8000/play/a0kt/index.m3u8
+#EXTINF:-1 tvg-id="StarBharat.in@SD",Star Bharat (576p)
+http://116.90.120.152:8000/play/a0h2/index.m3u8
+#EXTINF:-1 tvg-id="StarBharat.in@HD",Star Bharat HD (1080p)
+http://116.90.120.152:8000/play/a0ja/index.m3u8
+#EXTINF:-1 tvg-id="StarGold2.in@SD",Star Gold 2 (576p)
+http://116.90.120.152:8000/play/a0gz/index.m3u8
+#EXTINF:-1 tvg-id="StarGold2.in@HD",Star Gold 2 HD (1080p)
+http://116.90.120.152:8000/play/a0hq/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldRomance.in@SD",Star Gold Romance (1080p)
+http://116.90.120.152:8000/play/a0he/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
+http://116.90.120.152:8000/play/a0j2/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldThrills.in@SD",Star Gold Thrills (576p)
+http://116.90.120.152:8000/play/a0gw/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in@HD",Star Sports 1 HD (1080p)
+http://116.90.120.152:8000/play/a0gs/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@SD",Star Sports 1 Hindi (576p)
+http://116.90.120.152:8000/play/a0h1/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD",Star Sports 1 Hindi HD (1080p)
+http://116.90.120.152:8000/play/a0je/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@HD",Star Sports 2 HD (1080p)
+http://116.90.120.152:8000/play/a0jo/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2Hindi.in@SD",Star Sports 2 Hindi (576p)
+http://116.90.120.152:8000/play/a0jc/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2Hindi.in@HD",Star Sports 2 Hindi HD (1080p)
+http://116.90.120.152:8000/play/a0hi/index.m3u8
+#EXTINF:-1 tvg-id="StarSports3.in@SD",Star Sports 3 (576p)
+http://116.90.120.152:8000/play/a0js/index.m3u8
+#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD",Star Sports Select 1 HD (1080p)
+http://116.90.120.152:8000/play/a0h9/index.m3u8
+#EXTINF:-1 tvg-id="StarSportsSelect2.in@HD",Star Sports Select 2 HD (1080p)
+http://116.90.120.152:8000/play/a0ha/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBollywood.in@SD",Zee Bollywood (576p)
+http://116.90.120.152:8000/play/a0h6/index.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
+http://116.90.120.152:8000/play/a0hc/index.m3u8
+#EXTINF:-1 tvg-id="ZeeCafe.in@HD",Zee Cafe HD (1080p)
+http://116.90.120.152:8000/play/a0hn/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in@HD",Zee TV HD (1080p)
+http://116.90.120.152:8000/play/a0hk/index.m3u8
+#EXTINF:-1 tvg-id="ZeeZest.in@HD",Zee Zest HD (1080p)
+http://116.90.120.152:8000/play/a0hu/index.m3u8
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD",All Time Movies (576p)
+https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="AndTV.in@HD",&TV HD (1080p)
+http://116.90.120.152:8000/play/a0j5/index.m3u8
+#EXTINF:-1 tvg-id="Andpictures.in@HD",&pictures HD (1080p)
+http://116.90.120.152:8000/play/a0j4/index.m3u8
+#EXTINF:-1 tvg-id="AndpriveHD.in@SD",&prive HD (1080p)
+http://116.90.120.152:8000/play/a0it/index.m3u8
+#EXTINF:-1 tvg-id="Andflix.in@HD",&flix HD (1080p)
+http://116.90.120.152:8000/play/a0il/index.m3u8
+#EXTINF:-1 tvg-id="Maiboli.in@SD",Maiboli (576p)
+https://mumt01.tangotv.in/MAIBOLI/index.m3u8
+#EXTINF:-1 tvg-id="Mastiii.in@SD",Mastiii (576p)
+https://mumt02.tangotv.in/MASTIII/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@SD",StarPlus (576p)
+http://103.52.34.182:8001/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@US",Failarmy International
 https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GoUSATV.us@SD",Go USA
@@ -13250,20 +13298,6 @@ https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 http://202.60.106.14:8080/1335/playlist.m3u8
 #EXTINF:-1 tvg-id="GSTV.jp@SD",GSTV (720p)
 https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)
-#EXTINF:-1 tvg-id="JOABDTV.jp@SD",JOAB-DTV
-http://171.244.62.178/jptv2/get.php?id=hnsnBqHDt2EXQupW2soBjw==
-#EXTINF:-1 tvg-id="JOAKDTV.jp@SD",JOAK-DTV (1080p)
-http://171.244.62.178/jptv2/get.php?id=Zt19NGeOuIq3EwLPZh_KvQ==
-#EXTINF:-1 tvg-id="JOAKDTV.jp@SD",JOAK-DTV
-http://171.244.62.178/jptv2/get.php?id=mCOs5Hrdk31FTwR6IJj_hA==
-#EXTINF:-1 tvg-id="JOAXDTV.jp@SD",JOAX-DTV
-http://171.244.62.178/jptv2/get.php?id=4SlJSS46Vw5igmOdvfKMww==
-#EXTINF:-1 tvg-id="JOCXDTV.jp@SD",JOCX-DTV
-http://171.244.62.178/jptv2/get.php?id=uAJJq7DD6hKyPLoaMOBSUA==
-#EXTINF:-1 tvg-id="JORXDTV.jp@SD",JORX-DTV
-http://171.244.62.178/jptv2/get.php?id=p1cu_Z3QI6VV01VJmw8vJQ==
-#EXTINF:-1 tvg-id="JOTXDTV.jp@SD",JOTX-DTV
-http://171.244.62.178/jptv2/get.php?id=2eX5WUIdzetyhgy8L8plEQ==
 #EXTINF:-1 tvg-id="NHKKishouSaigai.jp@SD",NHK Kishou Saigai (360p) [Not 24/7]
 https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
 #EXTINF:-1 tvg-id="",NHK World News (French Subs) (720p)
@@ -13294,8 +13328,16 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-id="Weathernews.jp@SD",Weathernews (720p)
 https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
-#EXTINF:-1 tvg-id="WOWOWPrime.jp@SD",WOWOW Prime (720p)
-http://171.244.62.178/jptv2/get.php?id=CXrJaWUllYhR6k5e0_K46w==
+#EXTINF:-1 tvg-id="WOWOWLive.jp@SD",WOWOW Live
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD",NHK World-Japan HD (1080p) [Geo-blocked]
+https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="JOABDTV.jp@SD",JOAB-DTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 tvg-id="NHKBS.jp@SD",NHK BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 tvg-id="JORXDTV.jp@SD",JORX-DTV
+https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="3StonesTV.ke@SD",3 Stones TV (240p) [Not 24/7]
 https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
 #EXTINF:-1 tvg-id="AviationTV.ke@SD",Aviation TV (480p)
@@ -14266,6 +14308,8 @@ https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/LiveOutput/manifes
 https://pplive.comquas.com:5443/LiveApp/streams/9AUG8Y4aKVmk1762750828463.m3u8
 #EXTINF:-1 tvg-id="MRTV.mm@SD",MRTV
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
+#EXTINF:-1 tvg-id="DVBTV.mm@SD",DVB TV (720p) [Geo-blocked]
+https://live-stream.dvb.no/hls/stream_src/index.m3u8
 #EXTINF:-1 tvg-id="AsianBox.mn@SD",AsianBox (720p)
 https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
 #EXTINF:-1 tvg-id="",Auto TV (720p)
@@ -14810,18 +14854,16 @@ https://cloudvideo.servers10.com:8081/8016/index.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="CreaLaTV.mx@SD",CreaLaTV (1080p)
 https://stream8.mexiserver.com:2000/hls/crealatv/crealatv.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx@SD",Azteca 7 (1080p)
-https://d162h6qqsk8wvl.cloudfront.net/91890373-57e0-4162-92a9-f3244f50a35d/manifest.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx@SD",Las Estrellas (1080p)
 https://d162h6qqsk8wvl.cloudfront.net/e4025399-d1b6-4e51-8505-de9ec123a3fb/manifest.m3u8
 #EXTINF:-1 tvg-id="XHFNTDT1.mx@SD",XHFN-TDT1 (1080p)
 https://d162h6qqsk8wvl.cloudfront.net/9dd2f454-148b-43f2-8ad4-17f74d749895/manifest.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx@SD",TUDN (1080p)
 https://d162h6qqsk8wvl.cloudfront.net/c84794a7-80f2-4598-a92d-f8641cc684f4/manifest.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (1080p)
-https://d162h6qqsk8wvl.cloudfront.net/c219e4b7-9521-4cbc-b94e-7e002ec43462/manifest.m3u8
 #EXTINF:-1 tvg-id="TelehitMusica.mx@SD",Telehit Musica
 http://190.61.55.34:2401/play/a06t/index.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx@MexicoCity",Azteca 7 Mexico City (1080p)
+https://dnxdy7xlok3gl.cloudfront.net/5031bd7f-769e-4021-9967-019314f4a1f7/manifest.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us@SD",Estrella Games (1080p)
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaNews.us@SD",Estrella News (1080p)
@@ -15584,6 +15626,12 @@ https://amg00861-amg00861c11-rlaxx-uk-3950.playouts.now.amagi.tv/playlist.m3u8
 https://amg00861-amg00861c14-rlaxx-uk-3954.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SchieTV.nl@SD",Schie TV (576i)
 https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8
+#EXTINF:-1 tvg-id="INFAST.nl@SD",INFAST (1080p) [Geo-blocked]
+https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS6Classics.nl@HD",SBS6 Classics (1080p) [Geo-blocked]
+https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
+#EXTINF:-1 tvg-id="XITERockxMetal.nl@US",XITE Rock x Metal (1080p) [Geo-blocked]
+https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AreWeThereYet.us@SD",Are we there Yet? [Geo-blocked]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us@SD",Artflix Movie Classics (720p)
@@ -15992,8 +16040,6 @@ https://live.obslivestream.com/conecta2/index.m3u8
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-id="CRTelevision.pe@SD",CR Televisión Moyobamba (720p) [Not 24/7]
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1 tvg-id="ExitosaTV.pe@SD",Exitosa (720p)
-https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
 #EXTINF:-1 tvg-id="DiarioHechicera.pe@SD",Hechicera TV (720p)
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 #EXTINF:-1 tvg-id="ImpactoTelevision.pe@SD",Impacto Televisión (360p) [Not 24/7]
@@ -16114,6 +16160,8 @@ https://live.obslivestream.com/vivatv/index.m3u8
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 tvg-id="ECOTelevision.pe@SD",ECO Television
 https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ExitosaTV.pe@SD",Exitosa TV [Not 24/7]
+https://luna-3-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 #EXTINF:-1 tvg-id="TNTV.pf@SD",TNTV (720p) [Not 24/7]
 https://bcovlive-a.akamaihd.net/34b9e8a6345d4ee8acb351730d1dbe89/us-west-2/5816339219001/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCTV.pg@SD",NBC TV (1080p) [Not 24/7]
@@ -16348,8 +16396,6 @@ https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicBoxPolska.pl@SD",Music Box Polska (1080p) [Geo-blocked]
 https://vs2131.vcdn.biz/7c9ec24eb8edee7c3d3b96d9f3135f48_megogo/live/hls/b/700_2490_4000/u_sid/0/o/156751011/rsid/75909724-61e8-406f-9c58-f0491247f2a6/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid750262562196381400-b4000000.m3u8
-#EXTINF:-1 tvg-id="PinoTV.pl@SD",PinoTV (1080p)
-https://app.viloud.tv/hls/channel/e32c100fc7304040b61e6cc98b041f93.m3u8
 #EXTINF:-1 tvg-id="Polsat.pl@SD",Polsat (1080p) [Geo-blocked]
 https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 tvg-id="PolsatNews.pl@SD",Polsat News (720p) [Geo-blocked]
@@ -16474,20 +16520,10 @@ https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285c
 https://liveovh011.cda.pl/enc115/tvp2hdraw/tvp2hdraw.m3u8
 #EXTINF:-1 tvg-id="StopklatkaTV.pl@SD",Stopklatka TV (720p)
 https://liveovh010.cda.pl/enc102/stopklatkatvhdraw/stopklatkatvhdraw.mpd
-#EXTINF:-1 tvg-id="SzlagierTV.pl@SD",Szlagier TV
-http://80.53.89.117:29980/SzlagierTV/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pl@SD",Disney Channel (1080p)
 https://liveovh011.cda.pl/enc103/disneychannelhdraw/disneychannelhdraw.m3u8
 #EXTINF:-1 tvg-id="BTBMusic.pl@HD",BTB Music (1080p)
 https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
-#EXTINF:-1 tvg-id="WTK.pl@SD",WTK (1080p)
-http://80.53.89.117:29980/WTK/index.m3u8
-#EXTINF:-1 tvg-id="Pogoda24TV.pl@SD",Pogoda24 TV (1080p)
-http://80.53.89.117:29980/Pogoda24/index.m3u8
-#EXTINF:-1 tvg-id="TVCSuper.pl@SD",TVC Super (1080p)
-http://80.53.89.117:29980/TVCSuper/index.m3u8
-#EXTINF:-1 tvg-id="TVC.pl@SD",TVC (1080p)
-http://80.53.89.117:29980/TVC/index.m3u8
 #EXTINF:-1 tvg-id="WPTV.pl@SD",WP TV (1080p)
 https://liveovh010.cda.pl/enc109/wphdraw/wphdraw.m3u8
 #EXTINF:-1 tvg-id="PolsatViasatHistory.pl@SD",Polsat Viasat History (1080p)
@@ -16496,6 +16532,42 @@ https://liveovh010.cda.pl/enc105/polsatviasathistoryhdraw/polsatviasathistoryhdr
 https://liveovh010.cda.pl/enc107/polsatviasatexplorehdraw/polsatviasatexplorehdraw.mpd
 #EXTINF:-1 tvg-id="Puls2.pl@SD",Puls 2 (1080p)
 https://liveovh009.cda.pl/enc103/puls2raw/puls2raw.mpd
+#EXTINF:-1 tvg-id="PowerTV.pl@SD",Power TV (1080p)
+https://liveovh009.cda.pl/enc120/powertvhdraw/powertvhdraw.m3u8
+#EXTINF:-1 tvg-id="Motowizja.pl@SD",Motowizja (1080p)
+https://liveovh009.cda.pl/enc116/motowizjahdraw/motowizjahdraw.m3u8
+#EXTINF:-1 tvg-id="SzlagierTV.pl@SD",Szlagier TV (1080p)
+https://vefgpbwcjjjbxfng.naszatv.pl/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.pl@SD",Comedy Central (1080i)
+https://liveovh010.cda.pl/enc006/comedycentralhdraw/comedycentralhdraw.m3u8
+#EXTINF:-1 tvg-id="TVC.pl@SD",TVC (1080i)
+https://liveovh010.cda.pl/enc118/tvchdraw/tvchdraw.m3u8
+#EXTINF:-1 tvg-id="PolsatRodzina.pl@SD",Polsat Rodzina (1080p)
+https://turbotv.io/play/link/97155b27-7b0c-4af7-9b67-a9ae172d89bf/eyJpdiI6IkdDTWN5bG8zTlpiSTFPdDhXbERSRUE9PSIsInZhbHVlIjoiRHJqdWhFRWdnN2p0ZjRHOEloWjcwNUVldmw4b2l0VjJ0Z2g1ZXFueWtQMU9ldzN2aFVwL1laeVVGNDFaVW1lUGhoQ2praGNsWVdCb212NUd1Y1N6VXBLSzF6bDd5TDZ3WjRQL0MxSlBRcUE9IiwibWFjIjoiNmQwNTc3N2UwNWUzZjQzOGJjMmE0MmM0YjYxMWQ4ZWZiZDg3ODQzNjIyOTY1ZTI2Y2FkMzQwMWVkN2FlYTY1MSIsInRhZyI6IiJ9.m3u8
+#EXTINF:-1 tvg-id="PolsatNews2.pl@SD",Polsat News 2 (1080p)
+https://turbotv.io/play/link/75409b46-e472-4a51-9077-abd80596670f/eyJpdiI6Ik9uRkVaekdYWDUxSU9GbTF2Mm9YR2c9PSIsInZhbHVlIjoiNy9Gc3NQWXNPSFZFeFcybVBOcWYyM1JyUDRIUVFCemhOeFVLUmJjQys0VWR6VFhnMHh0L3ZmQ1VIOCsrQUN4Y2tVdldRQ3RHV2NqL3psQmtPNlJtS0dqY1ZvV3hqNVp5WllvWFZ0U0dJdVE9IiwibWFjIjoiN2EwZTJhNDhiNTBlZjAwMDlhYzczYzE2NGNlODQ1YWQ0OWNmYWMwYjk0ZTUyN2E4ODE1OTg4MzYwNzA1ZDFhMCIsInRhZyI6IiJ9.m3u8
+#EXTINF:-1 tvg-id="TVS.pl@SD",TVS (1080p)
+https://liveovh010.cda.pl/enc018/tvsraw/tvsraw.mpd
+#EXTINF:-1 tvg-id="NatGeoPeople.pl@SD",Nat Geo People (1080p)
+https://liveovh010.cda.pl/enc024/natgeopeoplehdraw/natgeopeoplehdraw.mpd
+#EXTINF:-1 tvg-id="ViasatTrueCrime.pl@HD",Viasat True Crime
+https://liveovh010.cda.pl/enc006/viasattruecrimeraw/viasattruecrimeraw.mpd
+#EXTINF:-1 tvg-id="ComedyCentral.pl@SD",Comedy Central (1080p)
+https://liveovh010.cda.pl/enc006/comedycentralhdraw/comedycentralhdraw.mpd
+#EXTINF:-1 tvg-id="ZoomTV.pl@SD",Zoom TV (1080p)
+https://liveovh010.cda.pl/enc005/zoomtvhdraw/zoomtvhdraw.mpd
+#EXTINF:-1 tvg-id="NickJr.pl@SD",Nick Jr. (1080p)
+https://liveovh010.cda.pl/enc010/nickjrraw/nickjrraw.mpd
+#EXTINF:-1 tvg-id="KinoPolska.pl@SD",Kino Polska (1080p)
+https://liveovh010.cda.pl/enc005/kinopolskahdraw/kinopolskahdraw.mpd
+#EXTINF:-1 tvg-id="ParamountNetwork.pl@SD",Paramount Network (1080p)
+https://liveovh010.cda.pl/enc028/paramountnetworkhdraw/paramountnetworkhdraw.mpd
+#EXTINF:-1 tvg-id="JuniorMusic.pl@HD",Junior Music HD (1080p)
+https://liveovh011.cda.pl/enc117/topkidsjrhdraw/topkidsjrhdraw.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.pl@SD",Nickelodeon (1080p)
+https://liveovh010.cda.pl/enc010/nickelodeonraw/nickelodeonraw.mpd
+#EXTINF:-1 tvg-id="TwojaTV.pl@SD",Twoja.TV (1080p)
+https://liveovh010.cda.pl/enc113/twojatvhdraw/twojatvhdraw.mpd
 #EXTINF:-1 tvg-id="SuperExpressTV.pl@FAST",Super Express TV (1080i)
 https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr@Poland",Africanews
@@ -17536,6 +17608,12 @@ https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-id="VIVARussia.ru@SD",VIVA Russia (1080p)
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
+#EXTINF:-1 tvg-id="PerviyKrymskiy.ru@SD",Perviy Krymskiy (720p)
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 tvg-id="DumaTV.ru@SD",Duma TV
+https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="TNTMusic.ru@SD",TNT Music
+https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
 #EXTINF:-1 tvg-id="Channel12.ru@SD",12 канал (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel12.ru@SD",12 канал
@@ -18346,8 +18424,6 @@ https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
 https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&format=hls
 #EXTINF:-1 tvg-id="SVT2.se@HD",SVT2 (1080p) [Geo-blocked]
 https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&format=hls
-#EXTINF:-1 tvg-id="SVT24.se@HD",SVT24 (1080p) [Geo-blocked]
-https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?defaultSubLang=1&format=hls
 #EXTINF:-1 tvg-id="SVTBarnSVT24.se@HD",SVT Barn/SVT24 (1080p) [Geo-blocked]
 https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?defaultSubLang=1&format=hls
 #EXTINF:-1 tvg-id="Kunskapskanalen.se@HD",Kunskapskanalen (1080p) [Geo-blocked]
@@ -20072,6 +20148,8 @@ https://panel.freedomflixtv.org:3900/hybrid/play.m3u8
 https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8
 #EXTINF:-1 tvg-id="WanLuoTV.ug@SD",Wan Luo TV (576p)
 https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8
+#EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD",Mr Bean Live Action (1080p)
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD",Afrobeats (1080p)
@@ -20270,8 +20348,6 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 #EXTINF:-1 tvg-id="JewelleryMaker.uk@SD",Jewelery Maker (1080p)
 https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="JimJamEurope.uk@SD",JimJam Europe
-https://flexi-s1.purplecdn.xyz/JimJam/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="KalsanTV.uk@SD",Kalsan TV (576p)
 https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
 #EXTINF:-1 tvg-id="KanshiTV.uk@SD",Kanshi TV (720p) [Not 24/7]
@@ -20450,6 +20526,8 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/SONYMAX/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTVUK.uk@HD",Zee TV UK HD (720p)
 http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/ZEE/index.m3u8
+#EXTINF:-1 tvg-id="CNBCUK.uk@SD",CNBC UK (1080p) [Geo-blocked]
+https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAlba.uk@SD",BBC Alba (1080p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-id="BBCAlba.uk@SD",BBC Alba (720p) [Geo-blocked]
@@ -20804,8 +20882,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c70
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2c00abfed110009d97243/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="",21 Jump Street (1080p)
 https://cb562753.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1XzIxSnVtcFN0cmVldF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="",Adventure Earth (720p)
-https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Ax Men (720p)
 https://36dc2f37.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0F4TWVuX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us@SD",Baby Shark TV (720p)
@@ -20980,16 +21056,12 @@ https://amg00376-magellan-amg00376c9-rakuten-uk-1941.playouts.now.amagi.tv/playl
 https://amg00654-itv-amg00654c7-rakuten-uk-1282.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-truelives-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="",Vevo Hip-Hop & R&B (1080p)
 https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Vevo Pop (1080p)
-https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Waterbear (1080p)
 https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Wicked Tuna (1080p)
 https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",World War TV (1080p)
 https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Yu-Gi-Oh! (1080p)
-https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="BeanoTV.uk@SD",Beano TV (720p)
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Bloomberg TV+ UHD (2160p)
@@ -21022,6 +21094,10 @@ https://pac12-sportstribal.amagi.tv/playlist.m3u8
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us@SD",SportsGrid (1080p)
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoPop.us@SD",Vevo Pop (1080p)
+https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YuGiOh.us@SD",Yu-Gi-Oh! (1080p)
+https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="6WiseTv.us@SD",6 Wise Tv (720p)
 https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="24Kitchen.us@Serbia",24Kitchen Serbia (720p)
@@ -22138,8 +22214,6 @@ https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 #EXTINF:-1 tvg-id="W14DKD5.us@SD",W14DK-D 14.5 All Sports Television Network
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
-#EXTINF:-1 tvg-id="WABCDT1.us@SD",WABC-DT1 (720p)
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl25.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WAGADT1.us@SD",WAGA-DT1
 https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8
 #EXTINF:-1 tvg-id="WBRADT3.us@SD",WBRA PBS Kids (1080p)
@@ -22156,8 +22230,6 @@ https://tvpass.org/live/WCBSDT1/hd
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="WEDQDT4.us@SD",WEDQ-DT4
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
-#EXTINF:-1 tvg-id="WEDWDT1.us@SD",WEDW-DT1 (720p) [Geo-blocked]
-http://restream-live.realiptv.to:8080/live/19742329/27604387/629545.m3u8
 #EXTINF:-1 tvg-id="WFLDDT1.us@SD",WFLD-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="WFTTDT1.us@SD",WFTT-DT1
@@ -22204,8 +22276,6 @@ https://dvrfl03.bozztv.com/hondu/hondu-pbs-kids/index.m3u8
 https://fl1.moveonjoy.com/TN_NASHVILLE_ABC/index.m3u8
 #EXTINF:-1 tvg-id="WLMB.us@SD",WLMB
 https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8
-#EXTINF:-1 tvg-id="WLNYDT1.us@SD",WLNY-DT1 (720p)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/89717.m3u8
 #EXTINF:-1 tvg-id="WLTVDT1.us@SD",WLTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
 #EXTINF:-1 tvg-id="WLVTDT1.us@SD",WLVT-DT1
@@ -22214,9 +22284,7 @@ https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
 http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
 #EXTINF:-1 tvg-id="WMBCDT1.us@SD",WMBC-DT1
 http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/1098/index.m3u8
-#EXTINF:-1 tvg-id="WNBCDT1.us@SD",WNBC-DT1 (720p) [Geo-blocked]
-https://e1.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="WNBCDT1.us@SD",WNBC-DT1 (720p)
+#EXTINF:-1 tvg-id="WVIRDT1.us",WVIR-DT1 (720p)
 https://fl1.moveonjoy.com/NBC/index.m3u8
 #EXTINF:-1 tvg-id="WNETDT1.us@SD",WNET-DT1
 https://e5.thetvapp.to/hls/WNET/index.m3u8
@@ -22284,8 +22352,6 @@ https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
 https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
 #EXTINF:-1 tvg-id="WWONTVChannel48.us@SD",WWON TV CH 48
 https://tv2.fastcast4u.com:3943/stream/play.m3u8
-#EXTINF:-1 tvg-id="WWORDT1.us@SD",WWOR-DT1 (576i) [Geo-blocked]
-http://restream-live.realiptv.to:8080/live/19742329/27604387/2476.m3u8
 #EXTINF:-1 tvg-id="WXIXDT1.us@SD",WXIX-DT1 (720p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wxixfox19news-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="WXTVDT1.us@SD",WXTV-DT1
@@ -22328,8 +22394,6 @@ https://143.244.60.30/AL_Birmingham_NBC/index.m3u8
 http://143.244.60.30/AL_BIRMINGHAM_FOX/index.m3u8
 #EXTINF:-1 tvg-id="WBMALD1.us@SD",WBMA-LD1 (720p)
 http://143.244.60.30/AL_BIRMINGHAM_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WFTSDT1.us@SD",WFTS-DT1 (720p)
-http://143.244.60.30/FL_Tampa_ABC/index.m3u8
 #EXTINF:-1 tvg-id="News12PlusNewYork.us@HD",News12+ New York (1080p) [Geo-blocked]
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News12PlusLongIsland.us@HD",News12+ Long Island (1080p) [Geo-blocked]
@@ -22358,6 +22422,46 @@ https://d162h6qqsk8wvl.cloudfront.net/bc36a614-a1b9-4b3b-9ba1-60f084f5ba5d/manif
 https://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="News12PlusConnecticut.us@HD",News12+ Connecticut (1080p) [Geo-blocked]
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="WillowSports.us@SD",Willow Sports (1080p) [Geo-blocked]
+https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WPXNDT1.us@SD",WPXN-DT1
+http://143.244.60.30/ION_TV/index.m3u8
+#EXTINF:-1 tvg-id="WWORDT1.us@SD",WWOR-DT1
+http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
+#EXTINF:-1 tvg-id="ComedyCentral.us@East",Comedy Central [Geo-blocked]
+https://streamer1.nexgen.bz/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="WNJUDT1.us@SD",WNJU-DT1
+http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/77-TELEMUNDO/mpegts
+#EXTINF:-1 tvg-id="WKTBCD2.us@SD",WKTB-CD2
+http://104.238.205.28:9090/278659_.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@East",Telemundo
+http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/77-TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="KVEADT1.us@SD",KVEA-DT1
+http://104.238.205.28:9090/278661_.m3u8
+#EXTINF:-1 tvg-id="WNJUDT1.us@SD",WNJU-DT1
+http://104.238.205.28:9090/278678_.m3u8
+#EXTINF:-1 tvg-id="SonyKALHindi.us@SD",Sony KAL Hindi (1080p)
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD",NBC News NOW (1080p)
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 tvg-id="BloombergOriginals.us@SD",Bloomberg Originals (1080p)
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="WABCDT1.us@SD",WABC-DT1
+https://fl61.moveonjoy.com/NY_NEW_YORK_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WNBCDT1.us@SD",WNBC-DT1
+https://fl61.moveonjoy.com/NY_New_York_NBC/mpegts
+#EXTINF:-1 tvg-id="WQEDDT5.us@SD",WQED-DT5
+http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/52-PBSKIDS/mpegts
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional",FX Latin America (1080p)
+http://38.199.6.1:17001/play/a04u/index.m3u8
+#EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional",Nick Jr. Latin America (480p)
+http://38.199.6.1:17001/play/a0pb/index.m3u8
+#EXTINF:-1 tvg-id="WGNDT1.us@SD",WGN-DT1
+http://23.237.104.106:8080/USA_WGN/index.m3u8
+#EXTINF:-1 tvg-id="WPIXDT1.us@SD",WPIX-DT1
+https://dvrfl04.tulix.tv/teleup-wpix/mpegts
+#EXTINF:-1 tvg-id="KTLADT1.us@SD",KTLA-DT1
+https://dvrfl04.tulix.tv/teleup-ktla/mpegts
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us@SD",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us@SD",30A Georgia Hollywood Review TV
@@ -22622,8 +22726,6 @@ https://amg00285-amg00285c3-firetv-us-6596.playouts.now.amagi.tv/playlist.m3u8
 https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GustoTV.ca@SD",Gusto
 https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="INFAST.us@SD",INFAST (1080p) [Geo-blocked]
-https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",INTRAVEL (1080p) [Geo-blocked]
 https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InWild.it@SD",INWILD (1080p) [Geo-blocked]
@@ -22702,8 +22804,6 @@ https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
 https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WaypointTV.us@SD",Waypoint TV (1080p)
 https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Willow Sports (1080p) [Geo-blocked]
-https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us@SD",Yahoo Finance (1080p) [Geo-blocked]
 https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Journy.us@SD",Journy (720p)
@@ -23436,8 +23536,6 @@ https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8
 https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/westminsterca/G0571_001/playlist.m3u8
 #EXTINF:-1 tvg-id="WFTXDT1.us@SD",WFTX News Fort Myers FL (720p)
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
-#EXTINF:-1 tvg-id="WGNDT1.us@SD",WGN Chicago IL (WGN-TV1) (720p)
-https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
 #EXTINF:-1 tvg-id="WhitePlainsCommunityMedia.us@SD",White Plains Community Media (360p)
 https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
 #EXTINF:-1 tvg-id="CityTVWhittier.us@SD",Whittier CityTV (Whittier CA) (720p)
@@ -25800,8 +25898,6 @@ https://shoutfactory-xumo.amagi.tv/playlist.m3u8
 https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="SonyCanalCompetencias.us@SD",Sony Canal Competencias
 https://spt-competencias-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyKALHindi.us@SD",Sony KAL Hindi
-https://spt-sonykal-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StoriesbyAMC.us@SD",Stories by AMC
 https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.pl@SD",Strongman Champions League
