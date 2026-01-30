@@ -79,8 +79,6 @@ https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="NoorDubai.ae@SD",Noor Dubai
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="AlYaumTV.ae@SD",Al Yaum TV
-https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 #EXTINF:-1 tvg-id="ABCNews.au",ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1
@@ -105,3 +103,7 @@ https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
 https://stream.badinan.xyz/welat/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RonahiTV.sy@SD",Ronahi TV
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
+#EXTINF:-1 tvg-id="RudawTV.iq@SD",Rudaw TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlYaumTV.ae@SD",Al Yaum TV
+https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
