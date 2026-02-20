@@ -206,6 +206,8 @@ https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="AiredeSantaFe.ar@SD",Aire de Santa Fe (1080p)
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlternaTV.ar@SD",Alterna TV (720p)
+https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar@SD",America TV (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -4843,8 +4845,6 @@ http://123.175.209.52:9003/hls/13/index.m3u8
 http://123.175.209.52:9003/hls/14/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13.cn@SD",CCTV-13新闻 (1080p)
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 tvg-id="CCTV14.cn@SD",CCTV-14 (2160p)
-http://123.175.209.52:9003/hls/15/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn@SD",CCTV-15 (576p)
 http://123.175.209.52:9003/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16.cn@SD",CCTV-16 (2160p)
@@ -7414,6 +7414,8 @@ https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
 https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8
 #EXTINF:-1 tvg-id="SistesurCanal49.do@SD",Sistesur Canal 49 (1080p) [Not 24/7]
 https://5790d294af2dc.streamlock.net:443/SISTESUR/SISTESUR/playlist.m3u8
+#EXTINF:-1 tvg-id="TourSpotTV.do@HD",Tour Spot TV (1280p) [Not 24/7]
+https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmouYazidTV.dz@SD",Amou Yazid TV (576p)
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 #EXTINF:-1 tvg-id="CNA.dz@SD",CNA (Chaîne Nord Africaine) (360p) [Not 24/7]
@@ -8254,6 +8256,8 @@ https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 #EXTINF:-1 tvg-id="CMMTV.es@HD",CMM TV HD (1080p)
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
+#EXTINF:-1 tvg-id="Antena3Internacional.es@SD",Antena 3 Internacional [Not 24 7]
+https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhs2a6SBsY0RnvGwCP6rgwKx/m3u8
 #EXTINF:-1 tvg-id="",Actualidad 360
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67517fae5534bb0008187997/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=13a07cf5-9cd9-48a5-8101-764fc4a1e908&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c5a4bd98-0d78-4694-b76e-cba3feb65585
 #EXTINF:-1 tvg-id="",Águila Roja
@@ -10548,6 +10552,8 @@ https://live-utv.unah.edu.hn/web/salida.m3u8
 https://amixtv.live:3395/live/unetvlive.m3u8
 #EXTINF:-1 tvg-id="VTV.hn@SD",VTV (480p) [Not 24/7]
 https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="GirasolTV.hn@SD",Girasol TV (1080i)
+https://s.emisoras.tv:8081/girasoltv/index.m3u8
 #EXTINF:-1 tvg-id="BravoKidsTV.hr@SD",Bravo! Kids TV (1080p)
 https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8
 #EXTINF:-1 tvg-id="BravoTV.hr@SD",Bravo! TV (1080p)
@@ -11901,8 +11907,6 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8
 #EXTINF:-1 tvg-id="SalvationTV.in@SD",Salvation TV (1080p)
 https://ktismaservers.in:3902/live/salvationtvlive.m3u8
-#EXTINF:-1 tvg-id="SamayKolkata.in@SD",Samay Kolkata (720p)
-https://5dd3981940faa.streamlock.net/kbcration/kbcration/playlist.m3u8
 #EXTINF:-1 tvg-id="SanaPlus.in@SD",Sana Plus (1080p) [Not 24/7]
 https://galaxyott.live/hls/sanaplus.m3u8
 #EXTINF:-1 tvg-id="SanaTV.in@SD",Sana TV (1080p) [Not 24/7]
@@ -12277,6 +12281,8 @@ https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 https://livestreampublictv.sunnxt.com/publictv/index.m3u8
 #EXTINF:-1 tvg-id="SamayKolkata.in@SD",Samay Kolkata (1080p)
 https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
+#EXTINF:-1 tvg-id="LifeTV.in@SD",Life TV (720p)
+https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak (576p)
 http://103.78.149.54:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="Aastha.in@SD",Aastha (576p)
@@ -18798,6 +18804,8 @@ https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
 https://liveovh011.cda.pl/P8IjbpepCvx7lF8FyJcdAQ/1755751084/2430238/enc109/wphdraw/wphdraw.m3u8
 #EXTINF:-1 tvg-id="PolsatViasatNature.pl@SD",Polsat Viasat Nature (1080p)
 https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc104/polsatviasatnaturehdraw/polsatviasatnaturehdraw.m3u8
+#EXTINF:-1 tvg-id="TVToya.pl@SD",TV Toya (720p) [Geo-blocked]
+https://cdn-14-go.toya.net.pl/drm/001_toyahd/manifest.mpd
 #EXTINF:-1 tvg-id="SuperExpressTV.pl@FAST",Super Express TV (1080i)
 https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr@Poland",Africanews
@@ -18972,6 +18980,10 @@ https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 #EXTINF:-1 tvg-id="Zeta93.pr@SD",WZNT (Zeta 93) (1080p) [Not 24/7]
 https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
+#EXTINF:-1 tvg-id="WAPADT1.pr@SD",WAPA-DT1 [Not 24/7]
+https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhssCKjRALMhrvwb3kJonEg0/m3u8
+#EXTINF:-1 tvg-id="WLIIDT1.pr@SD",WLII-DT1 [Not 24/7]
+https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhtYpmFqNO-6TFAEvlr9r53X/m3u8
 #EXTINF:-1 tvg-id="AjyalTV.ps@SD",Ajyal TV (720p)
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="AjyalTV.ps@SD",Ajyal TV
@@ -22874,6 +22886,12 @@ https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
 http://46.175.163.130/ks_plus/index.m3u8
 #EXTINF:-1 tvg-id="ChPinfo.ua@SD",ЧП Инфо (576p)
 http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
+#EXTINF:-1 tvg-id="SuspilneKrym.ua@SD",Suspilne. Krym (1080p) [Geo-blocked]
+https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
+#EXTINF:-1 tvg-id="SuspilneKultura.ua@SD",Suspilne. Kultura (1080p) [Geo-blocked]
+https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
+#EXTINF:-1 tvg-id="Pershyi.ua@SD",Pershyi (1080p) [Geo-blocked]
+https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:-1 tvg-id="3ABNTVUganda.ug@SD",3ABN TV Uganda (720p) [Not 24/7]
 https://3abn.bozztv.com/3abn/3abn_uganda_live/index.m3u8
 #EXTINF:-1 tvg-id="ACWUGTV.ug@SD",ACW UG TV (480p)
@@ -25372,6 +25390,8 @@ https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/li
 https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="BerksCommunityTV.us@SD",Berks Community TV (1080p)
 https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="UnivisionTlnovelas.us@SD",Univision Tlnovelas [Not 24/7]
+https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us@SD",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us@SD",30A Georgia Hollywood Review TV
