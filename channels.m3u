@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Al Arabiya (1080p)",Al Arabiya
+#EXTINF:-1 tvg-id="Al Arabiya (1080p)" tvg-logo="https://example.com/logos/alarabiya.png",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Arabiya Business (1080p)",Al Arabiya Business
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
