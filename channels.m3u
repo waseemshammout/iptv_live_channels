@@ -11,33 +11,33 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera English (1080p)" tvg-logo="https://raw.githubusercontent.com/waseemshammout/iptv_live_channels/refs/heads/main/logos/Aljazeera_English.png", Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera Mubasher (1080p)" tvg-logo="",Al Jazeera Mubasher
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher (1080p)" tvg-logo="https://raw.githubusercontent.com/waseemshammout/iptv_live_channels/refs/heads/main/logos/Aljazeera_Mubasher.jpg",Al Jazeera Mubasher
 https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="Al Manar (576p) [Not 24/7]" tvg-logo="",Al Manar
+#EXTINF:-1 tvg-id="Al Manar (576p) [Not 24/7]" tvg-logo="https://raw.githubusercontent.com/waseemshammout/iptv_live_channels/refs/heads/main/logos/Almanar.jpg",Al Manar
 https://edge.fastpublish.me/live/index.m3u8
-#EXTINF:-1 tvg-id="Al Mayadeen (576p)" tvg-logo="",Al Mayadeen
+#EXTINF:-1 tvg-id="Al Mayadeen (576p)" tvg-logo="https://raw.githubusercontent.com/waseemshammout/iptv_live_channels/refs/heads/main/logos/Almayadeen.png",Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Alaraby 2 TV (1080p)" tvg-logo="",Alaraby 2 TV
+#EXTINF:-1 tvg-id="Alaraby 2 TV (1080p)" tvg-logo="https://raw.githubusercontent.com/waseemshammout/iptv_live_channels/refs/heads/main/logos/Alaraby2.jpg",Alaraby 2 TV
 https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8
-#EXTINF:-1 tvg-id="Alaraby TV (1080p)" tvg-logo="",Alaraby TV
+#EXTINF:-1 tvg-id="Alaraby TV (1080p)" tvg-logo="https://raw.githubusercontent.com/waseemshammout/iptv_live_channels/refs/heads/main/logos/ALARABY1.png",Alaraby TV
 https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8
-#EXTINF:-1 tvg-id="Alhiwar TV (1080p) [Not 24/7]" tvg-logo="",Alhiwar TV
+#EXTINF:-1 tvg-id="Alhiwar TV (1080p) [Not 24/7]" tvg-logo="https://raw.githubusercontent.com/waseemshammout/iptv_live_channels/refs/heads/main/logos/Alhiwar.jpg",Alhiwar TV
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Asharq News (1080p)" tvg-logo="",Asharq News
+#EXTINF:-1 tvg-id="Asharq News (1080p)" tvg-logo="https://raw.githubusercontent.com/waseemshammout/iptv_live_channels/refs/heads/main/logos/Asharq_News.png",Asharq News
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
-#EXTINF:-1 tvg-id="BBC Arabic (720p)" tvg-logo="",BBC Arabic
+#EXTINF:-1 tvg-id="BBC Arabic (720p)" tvg-logo="https://raw.githubusercontent.com/waseemshammout/iptv_live_channels/refs/heads/main/logos/BBC_Arabic.jpg",BBC Arabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="Bahrain Quran (720p) [Not 24/7]" tvg-logo="",Bahrain Quran
+#EXTINF:-1 tvg-id="Bahrain Quran (720p) [Not 24/7]" tvg-logo="https://raw.githubusercontent.com/waseemshammout/iptv_live_channels/refs/heads/main/logos/Bahrain.png",Bahrain Quran
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN Arabic (1080p) [Not 24/7]" tvg-logo="",CGTN Arabic
+#EXTINF:-1 tvg-id="CGTN Arabic (1080p) [Not 24/7]" tvg-logo="https://raw.githubusercontent.com/waseemshammout/iptv_live_channels/refs/heads/main/logos/CGTN_arabic.png",CGTN Arabic
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="DW Arabic (1080p)" tvg-logo="",DW Arabic
+#EXTINF:-1 tvg-id="DW Arabic (1080p)" tvg-logo="https://raw.githubusercontent.com/waseemshammout/iptv_live_channels/refs/heads/main/logos/DW_Arabic.png",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
-#EXTINF:-1 tvg-id="Dubai One (1080p)" tvg-logo="",Dubai One
+#EXTINF:-1 tvg-id="Dubai One (1080p)" tvg-logo="https://raw.githubusercontent.com/waseemshammout/iptv_live_channels/refs/heads/main/logos/Dubai_One.png",Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="France 24 Arabic (1080p)" tvg-logo="",France 24 Arabic
+#EXTINF:-1 tvg-id="France 24 Arabic (1080p)" tvg-logo="https://raw.githubusercontent.com/waseemshammout/iptv_live_channels/refs/heads/main/logos/France24.jpg",France 24 Arabic
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="LTV (360p)" tvg-logo="",LTV
+#EXTINF:-1 tvg-id="LTV (360p)" tvg-logo="https://raw.githubusercontent.com/waseemshammout/iptv_live_channels/refs/heads/main/logos/LTV.png",LTV
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1 tvg-id="MBC 1 (1080p)" tvg-logo="",MBC 1
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
